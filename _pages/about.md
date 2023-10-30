@@ -49,7 +49,7 @@ To this end, I have made the following efforts:
 
 # 📝 Publications 
 ## Journal Papers
-
+- Li, S., **Jiao, X.**, Shen, Y., Li, J., & Cai, S. (2023). Explore AR-based learning environments that promote students’ mathematics learning and self-efficacy: The case of motion problems. Journal of Research on Technology in Education. [In progress] (IF=3.281, Q2) (SSCI)
 - Cai, S., <b>Jiao, X., </b> Li, J., Jin, P., Zhou, H., & Wang, T. (2022). Conceptions of learning science among elementary school students in AR learning environment: A case study of "The Magic Sound." Sustainability (Switzerland), 14(11). doi:10.3390/su14116783
  [<a href="https://www.mdpi.com/2071-1050/14/11/6783">url</a>]
 - Li, S., Shen, Y., <b>Jiao, X., </b> & Cai, S. (2022). Using Augmented Reality to enhance students' representational fluency: the case of linear functions. Mathematics, 10(10). doi:10.3390/math10101718[<a href="https://www.mdpi.com/2227-7390/10/10/1718">url</a>]
@@ -80,14 +80,14 @@ To this end, I have made the following efforts:
 	[<a href="https://Xinyue-Jiao.github.io/pdf/publications/ISET2019Argu_Strategys.pdf">paper</a>]
 		[<a href="https://ieeexplore.ieee.org/document/8782235">url</a>]
 		   
-# Projects
+# 🗂️ Projects
 
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">CVPR 2016</div><img src='images/digestive.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
 **Integrating Learning Analytics and Learning Design: Building an Eco-system to Leverage Augmented Reality in Singapore Schools**
 
-A project that aim to design AR (Augmented Reality) application for elementary school students to learn about the digestive and circulatory systems. With instant diagnostic and predictive capabilities, the AR systems includes dashboard to track student behavior. Additionally, it utilizes AI and log data for further analysis of student behavior . 
+A project that aims to design AR (Augmented Reality) application for elementary school students to learn about the digestive and circulatory systems. With instant diagnostic and predictive capabilities, the AR systems includes dashboard to track student behavior. Additionally, it utilizes AI and log data for further analysis of student behavior . 
 
 *student researcher*
 </div>
