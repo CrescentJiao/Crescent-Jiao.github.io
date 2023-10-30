@@ -51,26 +51,10 @@ To this end, I have made the following efforts:
 ## Journal Papers
 
 - Cai, S., <b>Jiao, X., </b> Li, J., Jin, P., Zhou, H., & Wang, T. (2022). Conceptions of learning science among elementary school students in AR learning environment: A case study of "The Magic Sound." Sustainability (Switzerland), 14(11). doi:10.3390/su14116783
-        
-        
-        
-        
-        
-        [<a href="https://www.mdpi.com/2071-1050/14/11/6783">url</a>]
-- Li, S., Shen, Y., <b>Jiao, X., </b> & Cai, S. (2022). Using Augmented Reality to enhance students' representational fluency: the case of linear functions. Mathematics, 10(10). doi:10.3390/math10101718
-        
-        
-        
-        
-		[<a href="https://www.mdpi.com/2227-7390/10/10/1718">url</a>]
-- Y., Yang, Y., Cai, S., Wen, Y., Li, J., &  <b>Jiao, X., </b> (2021). AR learning environment integrated with EIA inquiry model: enhancing scientific literacy and reducing the cognitive load of students. Sustainability (Switzerland), 13(22). doi:10.3390/su132212787
-        
-        
-        
-         (IF=3.889, Q2) (SSCI)	
-		 [<a href="https://www.mdpi.com/2071-1050/13/22/12787">url</a>]
-- Cai, S., <b>Jiao, X., </b>Song, B. (2022) Opening another door of Education: Application, Challenge, and Prospect of Educational Metaverse. Modern Educational Technology, (1): 16-26. [In Chinese, CSSCI]		
-		
+ [<a href="https://www.mdpi.com/2071-1050/14/11/6783">url</a>]
+- Li, S., Shen, Y., <b>Jiao, X., </b> & Cai, S. (2022). Using Augmented Reality to enhance students' representational fluency: the case of linear functions. Mathematics, 10(10). doi:10.3390/math10101718[<a href="https://www.mdpi.com/2227-7390/10/10/1718">url</a>]
+- Y., Yang, Y., Cai, S., Wen, Y., Li, J., &  <b>Jiao, X., </b> (2021). AR learning environment integrated with EIA inquiry model: enhancing scientific literacy and reducing the cognitive load of students. Sustainability (Switzerland), 13(22). doi:10.3390/su132212787 (IF=3.889, Q2) (SSCI)	[<a href="https://www.mdpi.com/2071-1050/13/22/12787">url</a>]
+- Cai, S., <b>Jiao, X., </b>Song, B. (2022) Opening another door of Education: Application, Challenge, and Prospect of Educational Metaverse. Modern Educational Technology, (1): 16-26. [In Chinese, CSSCI]			
 - Cai, S., <b>Jiao, X., </b> Yang, Y., Jiang, L., Yu, S. (2021) Multi-modal smart classroom practice in 5G environment. Modern Distance Education Research, 33(05):103-112. [In Chinese] (IF= 5.382) (CSSCI)
 - Jiao, X., </b> Ouyang, C., Fan, S., Wang, P. & Gao, L. (2019). STEM+C curriculum design and application based on computational thinking teaching. Educational Information Technology. 2019(05), 43-46. [In Chinese] (IF= 0.335) 	
 		  
@@ -88,22 +72,10 @@ To this end, I have made the following efforts:
 		[<a href="https://ieeexplore.ieee.org/document/9853786">url</a>]
  - Jiao, X., </b> Yi, C., Liu, C., Xie, Y., & Ma, N. (2021). How Different Cognitive Style Groups Affect Learners' Knowledge Construction in Collaborative Argumentation. Proceedings of the 13th International Conference on Education Technology and Computers, ICETC 2021, May 24, 2021- June 2, 2021, Virtual, Online. (EI)
 	[<a href="https://Xinyue-Jiao.github.io/pdf/publications/ICETC2021How.pdf">paper</a>]
-		[<a href="https://dl.acm.org/doi/10.1145/3498765.3498831
-        
-        
-        
-        
-        
-        ">url</a>]
+		[<a href="https://dl.acm.org/doi/10.1145/3498765.3498831">url</a>]
 - Liu, Z.,<b>Jiao, X., </b> & Cai, S. (2021). Effects of Augmented Reality on students' online physics learning. Proceedings of the American Educational Research Association, AERA 2021, April 8, 2021 - April 12, 2021, Virtual, Online.
 	[<a href="https://Xinyue-Jiao.github.io/pdf/publications/AERA.pdf">paper</a>]
-		[<a href="https://doi.org/10.3102/1687194
-        
-        
-        
-        
-        
-        ">url</a>]
+		[<a href="https://doi.org/10.3102/1687194">url</a>]
 - Jiao, X., </b>& Lin, Y. R. (2019). The influence of argumentation strategy on students' web-based argumentation in different scientific concepts. Proceedings of the 2019 International Symposium on Educational Technology, ISET 2019, July 2, 2019 - July 4, 2019, Hradec Kralove, Czech Republic. (EI)
 	[<a href="https://Xinyue-Jiao.github.io/pdf/publications/ISET2019Argu_Strategys.pdf">paper</a>]
 		[<a href="https://ieeexplore.ieee.org/document/8782235">url</a>]
@@ -130,12 +102,7 @@ Focusing on the effects of integrating collaborative scripts into AR inquiry act
 
 *Principle Investigator*
 
-**Paper:** Jiao, X., </b>Liu, Z., Zhou, H., & Cai, S. (2022). The Effect of Role Assignment on Students' Collaborative Inquiry-based Learning in Augmented Reality Environment. Proceedings of the 22nd International Conference on Advanced Learning Technologies, ICALT 2022, July 1, 2022 - July 4, 2022, Bucharest, Romania. (EI) <a href="https://ieeexplore.ieee.org/document/9853793">https://doi.org/10.1109/ICALT55010.2022.00109
-        
-        
-        
-        
-           a>
+**Paper:** Jiao, X., </b>Liu, Z., Zhou, H., & Cai, S. (2022). The Effect of Role Assignment on Students' Collaborative Inquiry-based Learning in Augmented Reality Environment. Proceedings of the 22nd International Conference on Advanced Learning Technologies, ICALT 2022, July 1, 2022 - July 4, 2022, Bucharest, Romania. (EI) <a href="https://ieeexplore.ieee.org/document/9853793">https://doi.org/10.1109/ICALT55010.2022.00109</a>
 
 **Thesis:** A study on the Influence and Mechanisms of Role Assignment and Collaborative Scripts on the Effects of Collaborative Inquiry among Secondary School Students in the AR Environment
 </div>
@@ -173,11 +140,10 @@ Focusing on the effects of integrating collaborative scripts into AR inquiry act
 	<a ><img src="pic/ARapp/bee.png" height="150" style="margin-bottom:-3px"> &nbsp &nbsp</a> &nbsp
 	<a ><img src="pic/ARapp/mathszhuiji.png" height="150px" sid="potrait" > &nbsp &nbsp<br></a> &nbsp					
     <p> More details:  see this video👇<br></p>
-	<p>&nbsp &nbsp&nbsp &nbsp&nbsp &nbsp&nbsp &nbsp &nbsp&nbsp &nbsp &nbsp&nbsp &nbsp &nbsp&nbsp &nbsp&nbsp&nbsp &nbsp&nbsp&nbsp &nbsp
-	<iframe width="560" height="315" src="https://www.youtube.com/embed/AFe8amnUDw0" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+	<p><iframe width="560" height="315" src="https://www.youtube.com/embed/AFe8amnUDw0" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 	</p>
    
-  </section>
+ 
   
   <a class="entry-link" aria-label="post link to Some Math behind Neural Tangent Kernel" href="https://lilianweng.github.io/posts/2022-09-08-ntk/"></a>
 </article>
@@ -196,13 +162,9 @@ Focusing on the effects of integrating collaborative scripts into AR inquiry act
 - 📰Traffic safety assistant-formation of traffic lights: Solving traffic signal problems using programming .</li>📰Rapid Rescue: Use programming to develop rescue plans to help save hostages from the jungle .</li>
 	
 
-<p>&nbsp &nbsp&nbsp &nbsp&nbsp &nbsp&nbsp &nbsp 
+<p><a href="https://github.com/Xinyue-Jiao">&nbsp &nbsp&nbsp &nbsp&nbsp &nbsp&nbsp &nbsp<img src="pic/pojects/stem3.png" height="300px" style="margin-bottom:-3px"> p</a> 
 	
-	<a href="https://github.com/Xinyue-Jiao">&nbsp &nbsp&nbsp &nbsp&nbsp &nbsp&nbsp &nbsp<img src="pic/pojects/stem3.png" height="300px" style="margin-bottom:-3px"> &nbsp &nbsp</a> &nbsp
-	
-	
-   
-  </section>
+
   
   <a class="entry-link" aria-label="post link to Some Math behind Neural Tangent Kernel" href="https://lilianweng.github.io/posts/2022-09-08-ntk/"></a>
 </article>
