@@ -17,8 +17,6 @@ redirect_from:
 
 <span class='anchor' id='about-me'></span>
 
-I work at Bytedance AI Lab, Speech & Audio Team  as a research scientist now in Singapore, leading a fundamental audio/talkingface research group.
-
 I am a Research assistant at National Institute of Education, Nanyang Technological University <a href="https://www.ntu.edu.sg/nie"> (NIE NTU)</a>, Singapore </a>, where I participated in AR apps design and collected and analysed data. I am doing research about improving learner's leanring expereince by learning with AR apps using learning analytics methods.
 
 I graduated from Faculty of education <a href="https://english.bnu.edu.cn/">Beijing Normal University (BNU) (北京师范大学)</a> with a Master’s degree in Educational Technology ,  advised by Prof. <a href="https://www.researchgate.net/profile/Su-Cai" target="_blank"> Su Cai</a>.  I was a research assistant in <a href="https://www.researchgate.net/lab/VR-AR-Education-Lab-Su-Cai" target="_blank"> "AR/VR+Education" Lab. 
@@ -33,11 +31,11 @@ My research interest includes learning analytics, AR, formative assessment and c
 My  academic interest is the application of Augmented Reality & Virtual Reality in education and Game-based Learning.
 	 (I was a research assistant in <a href="https://www.researchgate.net/lab/VR-AR-Education-Lab-Su-Cai" target="_blank"> "AR/VR+Education" Lab </a>)
 		
-- Learning science and technology, learning analytics, Multimodal learning analysis </li>
-- The application of AR/VR in education</li>
+- Learning science and technology, learning analytics, Multimodal learning analysis 
+- The application of AR/VR in education
 - Learning analytics, AI,Automated assessment, formative assessment, stealth assessment
-- Game-based Learning, Game design, interaction design</li> 
-- Computer-Supported Collaborative Learning.</li>
+- Game-based Learning, Game design, interaction design
+- Computer-Supported Collaborative Learning.
 - Computational Thinking in STEM, programming educational game
 To this end, I have made the following efforts:
 	As two long-term goals, I expect to achieve:
@@ -87,10 +85,21 @@ To this end, I have made the following efforts:
 		   
 # Projects
 
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">CVPR 2016</div><img src='images/digestive.png' alt="sym" width="100%"></div></div>
+<div class='paper-box-text' markdown="1">
+
+**Integrating Learning Analytics and Learning Design: Building an Eco-system to Leverage Augmented Reality in Singapore Schools**
+
+A project that aim to design AR (Augmented Reality) application for elementary school students to learn about the digestive and circulatory systems. With instant diagnostic and predictive capabilities, the AR systems includes dashboard to track student behavior. Additionally, it utilizes AI and log data for further analysis of student behavior . 
+
+*student researcher*
+</div>
+</div>
+
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">CVPR 2016</div><img src='images/500x300.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
-**using learning analytics methods to reveal the mechanism of the collaborative scripts on the effects of collaborative inquiry in an AR environment**
+**using learning analytics methods to reveal the mechanism of the collaborative scripts on the effects of collaborative inquiry in AR environment**
 
 Focusing on the effects of integrating collaborative scripts into AR inquiry activities. Using learning analytics methods, such as cluster analysis, Lag Sequential Analysis, etc., to analyze students' collaborative inquiry performance.
 
