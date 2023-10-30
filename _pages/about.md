@@ -30,31 +30,39 @@ My research interest includes learning analytics, AR, formative assessment and c
 
 # 🎓 Research Interests
 
+My  academic interest is the application of Augmented Reality & Virtual Reality in education and Game-based Learning.
+	 (I was a research assistant in <a href="https://www.researchgate.net/lab/VR-AR-Education-Lab-Su-Cai" target="_blank"> "AR/VR+Education" Lab </a>)
+		
 - Learning science and technology, learning analytics, Multimodal learning analysis </li>
 - The application of AR/VR in education</li>
 - Learning analytics, AI,Automated assessment, formative assessment, stealth assessment
 - Game-based Learning, Game design, interaction design</li> 
 - Computer-Supported Collaborative Learning.</li>
 - Computational Thinking in STEM, programming educational game
-
+To this end, I have made the following efforts:
+	As two long-term goals, I expect to achieve:
+	<ul>
+	<li> Building practical and intelligent dialogue systems. I am excited about simple and effective approaches that can 
+		be generalizable to real-world conversation scenarios.
+	</li>
+	<li> Developing principled and fundamental methods for natural language generation. I am interested in how human knowledge
+		(e.g., factual, commonsense, etc.) can be reasoned and used in natural language generation.
+	</li>
 
 # 📝 Publications 
 ## Journal Papers
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">CVPR 2016</div><img src='images/500x300.png' alt="sym" width="100%"></div></div>
-<div class='paper-box-text' markdown="1">
-
-[Conceptions of learning science among elementary school students in AR learning environment: A case study of "The Magic Sound."](https://www.mdpi.com/2071-1050/14/11/6783)
-
-Cai, S., **Jiao, X.**, Li, J., Jin, P., Zhou, H., & Wang
-
-[**Project**](https://scholar.google.com/citations?view_op=view_citation&hl=zh-CN&user=DhtAFkwAAAAJ&citation_for_view=DhtAFkwAAAAJ:ALROH1vI_8AC) <strong><span class='show_paper_citations' data='DhtAFkwAAAAJ:ALROH1vI_8AC'></span></strong>
-- Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
-</div>
-</div>
-
-- [Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet](https://github.com), A, B, C, **CVPR 2020**
-
+- Cai, S., <b>Jiao, X., </b> Li, J., Jin, P., Zhou, H., & Wang, T. (2022). Conceptions of learning science among elementary school students in AR learning environment: A case study of "The Magic Sound." Sustainability (Switzerland), 14(11). doi:10.3390/su14116783
+				[<a href="https://www.mdpi.com/2071-1050/14/11/6783">url</a>]
+- Li, S., Shen, Y., <b>Jiao, X., </b> & Cai, S. (2022). Using Augmented Reality to enhance students' representational fluency: the case of linear functions. Mathematics, 10(10). doi:10.3390/math10101718
+		[<a href="https://www.mdpi.com/2227-7390/10/10/1718">url</a>]
+- Y., Yang, Y., Cai, S., Wen, Y., Li, J., &  <b>Jiao, X., </b> (2021). AR learning environment integrated with EIA inquiry model: enhancing scientific literacy and reducing the cognitive load of students. Sustainability (Switzerland), 13(22). doi:10.3390/su132212787 (IF=3.889, Q2) (SSCI)	
+		 [<a href="https://www.mdpi.com/2071-1050/13/22/12787">url</a>]
+- Cai, S., <b>Jiao, X., </b>Song, B. (2022) Opening another door of Education: Application, Challenge, and Prospect of Educational Metaverse. Modern Educational Technology, (1): 16-26. [In Chinese, CSSCI]		
+		
+- Cai, S., <b>Jiao, X., </b> Yang, Y., Jiang, L., Yu, S. (2021) Multi-modal smart classroom practice in 5G environment. Modern Distance Education Research, 33(05):103-112. [In Chinese] (IF= 5.382) (CSSCI)
+- Jiao, X., </b> Ouyang, C., Fan, S., Wang, P. & Gao, L. (2019). STEM+C curriculum design and application based on computational thinking teaching. Educational Information Technology. 2019(05), 43-46. [In Chinese] (IF= 0.335) 	
+		  
 ## Conference Papers ##
 
 - <b>Jiao, X., </b>Liu, Z., Zhou, H., & Cai, S. (2022). The Effect of Role Assignment on Students' Collaborative Inquiry-based Learning in Augmented Reality Environment. Proceedings of the 22nd International Conference on Advanced Learning Technologies, ICALT 2022, July 1, 2022 - July 4, 2022, Bucharest, Romania. (EI) [<a href="https://ieeexplore.ieee.org/document/9853793">url</a>]
@@ -77,7 +85,88 @@ Cai, S., **Jiao, X.**, Li, J., Jin, P., Zhou, H., & Wang
 	[<a href="https://Xinyue-Jiao.github.io/pdf/publications/ISET2019Argu_Strategys.pdf">paper</a>]
 		[<a href="https://ieeexplore.ieee.org/document/8782235">url</a>]
 		   
+# Projects
 
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">CVPR 2016</div><img src='images/500x300.png' alt="sym" width="100%"></div></div>
+<div class='paper-box-text' markdown="1">
+
+**using learning analytics methods to reveal the mechanism of the collaborative scripts on the effects of collaborative inquiry in an AR environment**
+
+Focusing on the effects of integrating collaborative scripts into AR inquiry activities. Using learning analytics methods, such as cluster analysis, Lag Sequential Analysis, etc., to analyze students' collaborative inquiry performance.
+
+*Principle Investigator*
+
+**Paper:** Jiao, X., </b>Liu, Z., Zhou, H., & Cai, S. (2022). The Effect of Role Assignment on Students' Collaborative Inquiry-based Learning in Augmented Reality Environment. Proceedings of the 22nd International Conference on Advanced Learning Technologies, ICALT 2022, July 1, 2022 - July 4, 2022, Bucharest, Romania. (EI) <a href="https://ieeexplore.ieee.org/document/9853793">https://doi.org/10.1109/ICALT55010.2022.00109</a>
+
+**Thesis:** A study on the Influence and Mechanisms of Role Assignment and Collaborative Scripts on the Effects of Collaborative Inquiry among Secondary School Students in the AR Environment
+</div>
+</div>
+
+
+## my apps/games
+<p><b>AR + STEM education</b></p>
+ 
+
+- <a href="https://github.com/Xinyue-Jiao/The-three-primary-colors-of-light" target="_blank"> 🚥The three primary colors of light</a>[Image-based]: Helping children learn the law of the three primary colors of light . Adopted by <b> five </b>elementary schools in China</li>
+- <a href="https://github.com/Xinyue-Jiao/Dispersion-of-Light" target="_blank"> 🕎 Dispersion of Light</a>[Image-based]</a>: Helping children learn the dispersion of light .   Adopted by <b> one </b>elementary schools in China</li>
+- <a href="https://github.com/Xinyue-Jiao/Mystery-of-solar-altitude" target="_blank">🌞 Mystery of solar altitude</a>[Image-based]</a>: Using AR and 3D models to simulate changes in solar altitude throughout the day.</li>
+
+	<a >&nbsp &nbsp&nbsp &nbsp&nbsp &nbsp&nbsp &nbsp<img src="pic/ARapp/Light.png" height="150px" style="margin-bottom:-3px"> &nbsp &nbsp</a> &nbsp
+	<a><img src="pic/ARapp/Light2.png" height="150" style="margin-bottom:-3px"> &nbsp &nbsp</a> &nbsp
+	<a><img src="pic/ARapp/Solar altitude.png" height="150px" sid="potrait" > &nbsp &nbsp<br></a> &nbsp					
+    
+
+- <a href="https://github.com/Xinyue-Jiao/Exploring-the-contour-lines" target="_blank">⛰️Exploring the contour lines</a>[Image-based]</a>:  Helping students observe contour lines from different angles.  Adopted by <b> five </b>elementary schools in China</li>
+- <a href="https://github.com/Xinyue-Jiao/Diverse-electrolytes" target="_blank">🧪 Diverse electrolytes</a>[Image-based]: Simulation of chemical reactions between different electrolytes using AR technology. </li>
+- 🌍 Our Earth</a>[location-based]: Earth Landscapes and English vocabulary acquisition .  Adopted by<b> five </b> elementary schools in China</li>
+	
+	
+	<a >&nbsp &nbsp&nbsp &nbsp&nbsp &nbsp&nbsp &nbsp<img src="pic/ARapp/Contour.png" height="150px" style="margin-bottom:-3px"> &nbsp &nbsp</a> &nbsp
+	<a ><img src="pic/ARapp/dianjiezhi.png" height="150" style="margin-bottom:-3px"> &nbsp &nbsp</a> &nbsp
+	<a ><img src="pic/ARapp/OurEarth.png" height="150px" sid="potrait" > &nbsp &nbsp<br></a> &nbsp					
+    <p><b>AR + Mathematics education</b></p>
+	
+- <a href="https://github.com/Xinyue-Jiao/Linear-function" target="_blank">📝Linear function</a>[Image-based]</a>: Real-time presentation of the V-t function of the character running. Adopted by <b> one </b>elementary schools in China</li>
+- <a href="https://github.com/Xinyue-Jiao/Segmentation-Functions" target="_blank"> 🐝Segmentation Functions</a>[Image-based]</a>: Change the speed of the bees and record the time and distance the bees fly in real time. Adopted by <b> one </b>elementary schools in China</li>
+- <a href="https://github.com/Xinyue-Jiao/Pursue-and-encounter-problems" target="_blank">🏃Pursue and encounter problems</a>[Image-based]</a>: Visuallization of pursuit and encounter problems in mathematics . Adopted by <b> one </b>elementary schools in China</li>
+	
+	<a >&nbsp &nbsp&nbsp &nbsp&nbsp &nbsp&nbsp &nbsp<img src="pic/ARapp/run.png" height="150px" style="margin-bottom:-3px"> &nbsp &nbsp</a> &nbsp
+	<a ><img src="pic/ARapp/bee.png" height="150" style="margin-bottom:-3px"> &nbsp &nbsp</a> &nbsp
+	<a ><img src="pic/ARapp/mathszhuiji.png" height="150px" sid="potrait" > &nbsp &nbsp<br></a> &nbsp					
+    <p> More details:  see this video👇<br></p>
+	<p>&nbsp &nbsp&nbsp &nbsp&nbsp &nbsp&nbsp &nbsp &nbsp&nbsp &nbsp &nbsp&nbsp &nbsp &nbsp&nbsp &nbsp&nbsp&nbsp &nbsp&nbsp&nbsp &nbsp
+	<iframe width="560" height="315" src="https://www.youtube.com/embed/AFe8amnUDw0" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+	</p>
+   
+  </section>
+  
+  <a class="entry-link" aria-label="post link to Some Math behind Neural Tangent Kernel" href="https://lilianweng.github.io/posts/2022-09-08-ntk/"></a>
+</article>
+<article class="post-entry"> 
+  <header class="entry-header">
+    <h2>STEM Curriculum Design Works
+    </h2>
+  </header>
+  <section class="entry-content">
+
+
+
+- <a href="https://Xinyue-Jiao.github.io/pdf/STEM/wateringrobot.pdf" target="_blank">📰 Watering Robot </a>: Using robots to program the shortest path for watering the botanical garden </li>
+- <a href="https://Xinyue-Jiao.github.io/pdf/STEM/LittleMouse.pdf" target="_blank">📰Little Mouse's Journey to Apple Land </a>: Using mbot programming to help mice eat apples. </li>
+- 📰Traffic safety assistant-formation of traffic lights: Solving traffic signal problems using programming .</li>
+- 📰Traffic safety assistant-formation of traffic lights: Solving traffic signal problems using programming .</li>📰Rapid Rescue: Use programming to develop rescue plans to help save hostages from the jungle .</li>
+	
+
+<p>&nbsp &nbsp&nbsp &nbsp&nbsp &nbsp&nbsp &nbsp 
+	
+	<a href="https://github.com/Xinyue-Jiao">&nbsp &nbsp&nbsp &nbsp&nbsp &nbsp&nbsp &nbsp<img src="pic/pojects/stem3.png" height="300px" style="margin-bottom:-3px"> &nbsp &nbsp</a> &nbsp
+	
+	
+   
+  </section>
+  
+  <a class="entry-link" aria-label="post link to Some Math behind Neural Tangent Kernel" href="https://lilianweng.github.io/posts/2022-09-08-ntk/"></a>
+</article>
 
 # 🎖 Honors and Awards
 - 2022/10  National Scholarship of BNU(Top 1%)
@@ -99,7 +188,7 @@ Cai, S., **Jiao, X.**, Li, J., Jin, P., Zhou, H., & Wang
 - *2021.03*, Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet.  \| [\[video\]](https://github.com/)
 
 # 💻 Work Experience
-- 2023/08 - present： Research Assistant, National Institute of Education, Nanyang Technological Univ, Singapore.
+- 2023/08 - present：Research Assistant, National Institute of Education, Nanyang Technological Univ, Singapore.
 - 2020/11 - 2021/08: Teaching Assistant, Faculty of Education, Beijing Normal Univ, China.
 - 2020/11 - 2022/11: Research Assistant, VR/AR + Education Lab, Beijing Normal Univ, China.	
 - 2019/09 - 2019/12: Research Assistant, School of Educational Information Tech, CCNU.
