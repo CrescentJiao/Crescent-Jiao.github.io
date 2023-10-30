@@ -24,7 +24,7 @@ author:
   name             : "Xinyue jiao"
   avatar           : "images/android-chrome-512x512.png"
   bio              : "Beijing Normal University"
-  location         : "Beijing, China"
+  #location         : "Beijing, China"
   employer         :
   pubmed           : 
   googlescholar    : "https://scholar.google.com/citations?hl=zh-CN&user=hVqfI2QAAAAJ"
