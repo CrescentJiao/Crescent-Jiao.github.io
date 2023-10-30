@@ -28,9 +28,15 @@ I won the national Scholarship (1 candidates each year).  I am honored to be one
 My research interest includes learning analytics, AR, formative assessment and collaborative learning. I have published 10+ papers at the journals and international conferences related to educational technology.
 
 
-# 🔥 News
-- *2022.02*: &nbsp;🎉🎉 Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
-- *2022.02*: &nbsp;🎉🎉 Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
+# 🎓 Research Interests
+
+- Learning science and technology, learning analytics, Multimodal learning analysis </li>
+- The application of AR/VR in education</li>
+- Learning analytics, AI,Automated assessment, formative assessment, stealth assessment
+- Game-based Learning, Game design, interaction design</li> 
+- Computer-Supported Collaborative Learning.</li>
+- Computational Thinking in STEM, programming educational game
+
 
 # 📝 Publications 
 ## Journal Papers
@@ -52,43 +58,25 @@ Cai, S., **Jiao, X.**, Li, J., Jin, P., Zhou, H., & Wang
 ## Conference Papers ##
 
 - <b>Jiao, X., </b>Liu, Z., Zhou, H., & Cai, S. (2022). The Effect of Role Assignment on Students' Collaborative Inquiry-based Learning in Augmented Reality Environment. Proceedings of the 22nd International Conference on Advanced Learning Technologies, ICALT 2022, July 1, 2022 - July 4, 2022, Bucharest, Romania. (EI) [<a href="https://ieeexplore.ieee.org/document/9853793">url</a>]
-		 
-	<li> <p style="margin-left: 0px; line-height: 140%; margin-top: 10px; margin-bottom: 10px;">
-	<b>Jiao, X., </b> Liu, Z., & Cai, S. (2020). The influence of augmented reality embedding cognitive scaffolds on elementary students' scientific learning. Proceedings of the 28th International Conference on Computers in Education, ICCE 2020, November 23, 2020 - November 27, 2020, Virtual, Online. (EI) <b>[Nominated for the Best Overall Paper Award]</b>
+- <b>Jiao, X., </b> Liu, Z., & Cai, S. (2020). The influence of augmented reality embedding cognitive scaffolds on elementary students' scientific learning. Proceedings of the 28th International Conference on Computers in Education, ICCE 2020, November 23, 2020 - November 27, 2020, Virtual, Online. (EI) <b>[Nominated for the Best Overall Paper Award]</b>
 		[<a href="https://Xinyue-Jiao.github.io/pdf/publications/ICCE2020Scaffolds.pdf">paper</a>]
 		[<a href=" https://apsce.net/icce/icce2020/proceedings/paper_90.pdf">url</a>]
-		    </p> 
-    </li>
-		<li> <p style="margin-left: 0px; line-height: 140%; margin-top: 10px; margin-bottom: 10px;">
-		<b>Jiao, X., </b>Wang, R., & Cai, S. (2022). Exploring the Argumentation Characteristics in SSI Video Discussion Area of Online Video Learning Website. Proceedings of the 10th International Conference on Information and Education Technology, ICIET 2022, April 9, 2022 -April 11, 2022, Matsue, Japan. (EI)
+- <b>Jiao, X., </b>Wang, R., & Cai, S. (2022). Exploring the Argumentation Characteristics in SSI Video Discussion Area of Online Video Learning Website. Proceedings of the 10th International Conference on Information and Education Technology, ICIET 2022, April 9, 2022 -April 11, 2022, Matsue, Japan. (EI)
 		[<a href="https://Xinyue-Jiao.github.io/pdf/publications/ICIET2022Argumentation.pdf">paper</a>]
 		[<a href="https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=9778977">url</a>]
-		    </p> 
-    </li>
-	<li> <p style="margin-left: 0px; line-height: 140%; margin-top: 10px; margin-bottom: 10px;">
-	Feng, Z., Gong, C., <b>Jiao, X., </b> Liu, Z., & Cai, S. (2022). The Effects of AR Learning Environment on Preschool Children's Numerical Cognition. Proceedings of the 22nd International Conference on Advanced Learning Technologies, ICALT 2022, July 1, 2022 - July 4, 2022, Bucharest, Romania. (EI)
+- Feng, Z., Gong, C., <b>Jiao, X., </b> Liu, Z., & Cai, S. (2022). The Effects of AR Learning Environment on Preschool Children's Numerical Cognition. Proceedings of the 22nd International Conference on Advanced Learning Technologies, ICALT 2022, July 1, 2022 - July 4, 2022, Bucharest, Romania. (EI)
 	[<a href="https://Xinyue-Jiao.github.io/pdf/publications/ICALT2022Numerical.pdf">paper</a>]
 		[<a href="https://ieeexplore.ieee.org/document/9853786">url</a>]
-		    </p> 
-    </li>
-	<li> <p style="margin-left: 0px; line-height: 140%; margin-top: 10px; margin-bottom: 10px;">
-	<b>Jiao, X., </b> Yi, C., Liu, C., Xie, Y., & Ma, N. (2021). How Different Cognitive Style Groups Affect Learners' Knowledge Construction in Collaborative Argumentation. Proceedings of the 13th International Conference on Education Technology and Computers, ICETC 2021, May 24, 2021- June 2, 2021, Virtual, Online. (EI)
+ - Jiao, X., </b> Yi, C., Liu, C., Xie, Y., & Ma, N. (2021). How Different Cognitive Style Groups Affect Learners' Knowledge Construction in Collaborative Argumentation. Proceedings of the 13th International Conference on Education Technology and Computers, ICETC 2021, May 24, 2021- June 2, 2021, Virtual, Online. (EI)
 	[<a href="https://Xinyue-Jiao.github.io/pdf/publications/ICETC2021How.pdf">paper</a>]
 		[<a href="https://dl.acm.org/doi/10.1145/3498765.3498831">url</a>]
-		    </p> 
-    </li>
-		<li> <p style="margin-left: 0px; line-height: 140%; margin-top: 10px; margin-bottom: 10px;">
-	Liu, Z.,<b>Jiao, X., </b> & Cai, S. (2021). Effects of Augmented Reality on students' online physics learning. Proceedings of the American Educational Research Association, AERA 2021, April 8, 2021 - April 12, 2021, Virtual, Online.
+- Liu, Z.,<b>Jiao, X., </b> & Cai, S. (2021). Effects of Augmented Reality on students' online physics learning. Proceedings of the American Educational Research Association, AERA 2021, April 8, 2021 - April 12, 2021, Virtual, Online.
 	[<a href="https://Xinyue-Jiao.github.io/pdf/publications/AERA.pdf">paper</a>]
 		[<a href="https://doi.org/10.3102/1687194">url</a>]
-		    </p> 
-    </li>
-	<li> <p style="margin-left: 0px; line-height: 140%; margin-top: 10px; margin-bottom: 10px;">
-	<b>Jiao, X., </b>& Lin, Y. R. (2019). The influence of argumentation strategy on students' web-based argumentation in different scientific concepts. Proceedings of the 2019 International Symposium on Educational Technology, ISET 2019, July 2, 2019 - July 4, 2019, Hradec Kralove, Czech Republic. (EI)
+- Jiao, X., </b>& Lin, Y. R. (2019). The influence of argumentation strategy on students' web-based argumentation in different scientific concepts. Proceedings of the 2019 International Symposium on Educational Technology, ISET 2019, July 2, 2019 - July 4, 2019, Hradec Kralove, Czech Republic. (EI)
 	[<a href="https://Xinyue-Jiao.github.io/pdf/publications/ISET2019Argu_Strategys.pdf">paper</a>]
 		[<a href="https://ieeexplore.ieee.org/document/8782235">url</a>]
-		    </p> 
-    </li>
+		   
 
 
 # 🎖 Honors and Awards
@@ -110,5 +98,10 @@ Cai, S., **Jiao, X.**, Li, J., Jin, P., Zhou, H., & Wang
 - *2021.06*, Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
 - *2021.03*, Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet.  \| [\[video\]](https://github.com/)
 
-# 💻 Internships
-- *2019.05 - 2020.02*, [Lorem](https://github.com/), China.
+# 💻 Work Experience
+- 2023/08 - present： Research Assistant, National Institute of Education, Nanyang Technological Univ, Singapore.
+- 2020/11 - 2021/08: Teaching Assistant, Faculty of Education, Beijing Normal Univ, China.
+- 2020/11 - 2022/11: Research Assistant, VR/AR + Education Lab, Beijing Normal Univ, China.	
+- 2019/09 - 2019/12: Research Assistant, School of Educational Information Tech, CCNU.
+- 2021/09 - 2021/12: Science Teacher, Qingdao No.5 Middle School, Qingdao, China.
+- 2017/07 - 2018/08: Programming Teacher, Robot Culture and Technology Company, Hubei, China.
