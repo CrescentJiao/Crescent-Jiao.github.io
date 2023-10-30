@@ -54,6 +54,8 @@ To this end, I have made the following efforts:
         
         
         
+        
+        
         [<a href="https://www.mdpi.com/2071-1050/14/11/6783">url</a>]
 - Li, S., Shen, Y., <b>Jiao, X., </b> & Cai, S. (2022). Using Augmented Reality to enhance students' representational fluency: the case of linear functions. Mathematics, 10(10). doi:10.3390/math10101718
         
@@ -90,10 +92,14 @@ To this end, I have made the following efforts:
         
         
         
+        
+        
         ">url</a>]
 - Liu, Z.,<b>Jiao, X., </b> & Cai, S. (2021). Effects of Augmented Reality on students' online physics learning. Proceedings of the American Educational Research Association, AERA 2021, April 8, 2021 - April 12, 2021, Virtual, Online.
 	[<a href="https://Xinyue-Jiao.github.io/pdf/publications/AERA.pdf">paper</a>]
 		[<a href="https://doi.org/10.3102/1687194
+        
+        
         
         
         
@@ -115,7 +121,7 @@ A project that aim to design AR (Augmented Reality) application for elementary s
 </div>
 </div>
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">CVPR 2016</div><img src='images/500x300.png' alt="sym" width="100%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">CVPR 2016</div><img src='images/bishe.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
 **Using learning analytics methods to reveal the mechanism of the collaborative scripts on the effects of collaborative inquiry in AR environment**
@@ -125,6 +131,8 @@ Focusing on the effects of integrating collaborative scripts into AR inquiry act
 *Principle Investigator*
 
 **Paper:** Jiao, X., </b>Liu, Z., Zhou, H., & Cai, S. (2022). The Effect of Role Assignment on Students' Collaborative Inquiry-based Learning in Augmented Reality Environment. Proceedings of the 22nd International Conference on Advanced Learning Technologies, ICALT 2022, July 1, 2022 - July 4, 2022, Bucharest, Romania. (EI) <a href="https://ieeexplore.ieee.org/document/9853793">https://doi.org/10.1109/ICALT55010.2022.00109
+        
+        
         
         
            a>
