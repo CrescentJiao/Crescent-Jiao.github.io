@@ -26,15 +26,14 @@ My research interest includes learning analytics, AR, formative assessment and c
 
 # 🎓 Research Interests
 
-My  academic interest is the application of Augmented Reality & Virtual Reality in education and Game-based Learning.
-	 (I was a research assistant in <a href="https://www.researchgate.net/lab/VR-AR-Education-Lab-Su-Cai" target="_blank"> "AR/VR+Education" Lab </a>)
+My  academic interest is the design and application of Augmented Reality & Virtual Reality in education and Game-based Learning. In the process of implementation, I am passion about using quantitative method such as learning analytics to understand students' interactions in the learning environment, and thus using the anlytics results to improve students' learning experience, such as using data visulization, dashborad etc. 
 		
 - Learning science and technology, learning analytics, Multimodal learning analysis 
 - The application of AR/VR in education
 - Learning analytics, AI,Automated assessment, formative assessment, stealth assessment
 - Game-based Learning, Game design, interaction design
-- Computer-Supported Collaborative Learning.
 - Computational Thinking in STEM, programming educational game
+- 
 To this end, I have made the following efforts:
 	As two long-term goals, I expect to achieve:
 	<ul>
@@ -44,6 +43,7 @@ To this end, I have made the following efforts:
 	<li> Developing principled and fundamental methods for natural language generation. I am interested in how human knowledge
 		(e.g., factual, commonsense, etc.) can be reasoned and used in natural language generation.
 	</li>
+ Recently, I find AI has a great power especially in supporting learning, analyzing data, so I am  
 
 # 📝 Publications 
 ## Journal Papers
