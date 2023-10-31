@@ -108,6 +108,20 @@ Focusing on the effects of integrating collaborative scripts into AR inquiry act
 </div>
 </div>
 
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">CVPR 2016</div><img src='images/math1.jpg' alt="sym" width="100%"></div></div>
+<div class='paper-box-text' markdown="1">
+	
+**Research on using Augmented Reality to enhance students' representational fluency and self-efficacy**
+
+Designed and implemented an AR-based multi-representational learning environment (MRLE) with three representations of linear functions to enhance middle school students' representational fluency and self-efficacy. Surveys, tests, and interview was conducted to analyze students' differences in learning sequences and preferences among students in terms of their representational learning profile.
+
+*Co-investigator*
+*Joint Research Project among Columbia Univ, Beijing Normal Univ, and East China Normal Univ*
+
+**Paper:** Li, S., Shen, Y., Jiao, X., & Cai, S. (2022). Using Augmented Reality to enhance students' representational fluency: the case of linear functions. Mathematics, 10(10).  <a href="[https://ieeexplore.ieee.org/document/9853793](https://www.mdpi.com/2227-7390/10/10/1718)">https://doi:10.3390/math10101718</a>(IF= 2.592, Q1) (SSCI)
+
+</div>
+</div>
 
 ## My apps/games
 <p><b>AR + STEM education</b></p>
