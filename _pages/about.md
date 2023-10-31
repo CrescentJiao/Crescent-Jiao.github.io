@@ -32,8 +32,8 @@ My  academic interest is the design and application of Augmented Reality & Virtu
 - The application of AR/VR in education
 - Learning analytics, AI,Automated assessment, formative assessment, stealth assessment
 - Game-based Learning, Game design, interaction design
-- Computational Thinking in STEM, programming educational game
-- 
+- generative AI, AI chatbox
+  
 To this end, I have made the following efforts:
 	As two long-term goals, I expect to achieve:
 	
