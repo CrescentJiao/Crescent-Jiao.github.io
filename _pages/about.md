@@ -43,7 +43,7 @@ To this end, I have made the following efforts:
  - LA and assessment Developing principled and fundamental methods for natural language generation. I am interested in how human knowledge
 		(e.g., factual, commonsense, etc.) can be reasoned and used in natural language generation.
 	
- Recently, I find AI has a great power especially in supporting learning, analyzing data, so I am  
+ Recently, I find AI has a great power especially in supporting learning analytics,  so I am  
  - AI 
 
 # 📝 Publications 
