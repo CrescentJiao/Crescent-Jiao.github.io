@@ -123,6 +123,25 @@ Designed and implemented an AR-based multi-representational learning environment
 </div>
 </div>
 
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">CVPR 2016</div><img src='images/light1.jpg' alt="sym" width="100%"></div></div>
+<div class='paper-box-text' markdown="1">
+	
+**. Research on multi-channel information fusion computation and evaluation in intelligent AR learning environment（ The National Natural Science Foundation of China)**
+
+.
+
+*Co-investigator*
+
+**Paper:** Cai, S., Jiao, X., Li, J., Jin, P., Zhou, H., & Wang, T. (2022). Conceptions of learning science among elementary school students in AR learning environment: A case study of "The Magic Sound." Sustainability (Switzerland), 14(11). doi:10.3390/su14116783 (IF= 3.889, Rank= 133/279, Q2) (SSCI)
+
+Yang, Y., Cai, S., Wen, Y., Li, J., & Jiao, X. (2021). AR learning environment integrated with EIA inquiry model: enhancing scientific literacy and reducing the cognitive load of students. Sustainability (Switzerland), 13(22). doi:10.3390/su132212787 (IF=3.889, Rank= 133/279, Q2) (SSCI)
+
+Jiao, X., Liu, Z., & Cai, S. (2020). The influence of augmented reality embedding cognitive scaffolds on elementary students' scientific learning. Proceedings of the 28th International Conference on Computers in Education, ICCE 2020, November 23, 2020 - November 27, 2020, Virtual, Online. (EI) [Nominated for the Best Overall Paper Award]
+
+
+</div>
+</div>
+
 ## My apps/games
 <p><b>AR + STEM education</b></p>
  
