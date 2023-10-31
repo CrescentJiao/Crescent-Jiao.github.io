@@ -21,9 +21,7 @@ I am a Research assistant at National Institute of Education, Nanyang Technologi
 
 I graduated from Faculty of education <a href="https://english.bnu.edu.cn/">Beijing Normal University (BNU) (北京师范大学)</a> with a Master’s degree in Educational Technology ,  advised by Prof. <a href="https://www.researchgate.net/profile/Su-Cai" target="_blank"> Su Cai</a>.  I was a research assistant in <a href="https://www.researchgate.net/lab/VR-AR-Education-Lab-Su-Cai" target="_blank"> "AR/VR+Education" Lab. 
 
-I won the national Scholarship (1 candidates each year).  I am honored to be one of the chairs of the AERA committee.
-
-My research interest includes learning analytics, AR, formative assessment and collaborative learning. I have published 10+ papers at the journals and international conferences related to educational technology.
+My research interest includes learning analytics, AR, formative assessment and collaborative learning. I have published 10+ papers at the journals and international conferences related to educational technology. I am honored to be present my papers in top conferences, such as AERA, ICALT,ICBL, ICCE and so on.
 
 
 # 🎓 Research Interests
@@ -116,6 +114,7 @@ Focusing on the effects of integrating collaborative scripts into AR inquiry act
 Designed and implemented an AR-based multi-representational learning environment (MRLE) with three representations of linear functions to enhance middle school students' representational fluency and self-efficacy. Surveys, tests, and interview was conducted to analyze students' differences in learning sequences and preferences among students in terms of their representational learning profile.
 
 *Co-investigator*
+
 *Joint Research Project among Columbia Univ, Beijing Normal Univ, and East China Normal Univ*
 
 **Paper:** Li, S., Shen, Y., Jiao, X., & Cai, S. (2022). Using Augmented Reality to enhance students' representational fluency: the case of linear functions. Mathematics, 10(10).  <a href="[https://ieeexplore.ieee.org/document/9853793](https://www.mdpi.com/2227-7390/10/10/1718)">https://doi:10.3390/math10101718</a>(IF= 2.592, Q1) (SSCI)
@@ -126,11 +125,11 @@ Designed and implemented an AR-based multi-representational learning environment
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">CVPR 2016</div><img src='images/light1.jpg' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 	
-**. Research on multi-channel information fusion computation and evaluation in intelligent AR learning environment（ The National Natural Science Foundation of China)**
+**Research on multi-channel information fusion computation and evaluation in intelligent AR learning environment（ The NSF of China)**
 
 .
 
-*Co-investigator*
+*Co-investigator* 
 
 **Paper:** Cai, S., Jiao, X., Li, J., Jin, P., Zhou, H., & Wang, T. (2022). Conceptions of learning science among elementary school students in AR learning environment: A case study of "The Magic Sound." Sustainability (Switzerland), 14(11). doi:10.3390/su14116783 (IF= 3.889, Rank= 133/279, Q2) (SSCI)
 
