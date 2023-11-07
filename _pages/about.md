@@ -81,7 +81,7 @@ To this end, I have made the following efforts:
 		   
 # 🗂️ Projects
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">CVPR 2016</div><img src='images/digestive.png' alt="sym" width="100%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">2023</div><img src='images/digestive.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
 **Integrating Learning Analytics and Learning Design: Building an Eco-system to Leverage Augmented Reality in Singapore Schools**
@@ -95,7 +95,7 @@ A project that aims to design AR (Augmented Reality) application for elementary 
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">CVPR 2016</div><img src='images/bishe.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
-**Using learning analytics methods to reveal the mechanism of the collaborative scripts on the effects of collaborative inquiry in AR environment**
+**the mechanism of the collaborative scripts on the effects of collaborative inquiry in AR environment**
 
 Focusing on the effects of integrating collaborative scripts into AR inquiry activities. Using learning analytics methods, such as cluster analysis, Lag Sequential Analysis, etc., to analyze students' collaborative inquiry performance.
 
@@ -110,7 +110,7 @@ Focusing on the effects of integrating collaborative scripts into AR inquiry act
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">CVPR 2016</div><img src='images/math1.jpg' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 	
-**Research on using Augmented Reality to enhance students' representational fluency and self-efficacy**
+**Using Augmented Reality to enhance students' representational fluency and self-efficacy**
 
 Designed and implemented an AR-based multi-representational learning environment (MRLE) with three representations of linear functions to enhance middle school students' representational fluency and self-efficacy. Surveys, tests, and interview was conducted to analyze students' differences in learning sequences and preferences among students in terms of their representational learning profile.
 
@@ -150,28 +150,28 @@ Jiao, X., Liu, Z., & Cai, S. (2020). The influence of augmented reality embeddin
 - <a href="https://github.com/Xinyue-Jiao/Dispersion-of-Light" target="_blank"> 🕎 Dispersion of Light</a>[Image-based]</a>: Helping children learn the dispersion of light .   Adopted by <b> one </b>elementary schools in China</li>
 - <a href="https://github.com/Xinyue-Jiao/Mystery-of-solar-altitude" target="_blank">🌞 Mystery of solar altitude</a>[Image-based]</a>: Using AR and 3D models to simulate changes in solar altitude throughout the day.</li>
 
-	<a ><img src="pic/ARapp/Light.png" height="150px" style="margin-bottom:-3px"> &nbsp &nbsp</a> &nbsp
-	<a><img src="pic/ARapp/Light2.png" height="150" style="margin-bottom:-3px"> &nbsp &nbsp</a> &nbsp
-	<a><img src="pic/ARapp/Solar altitude.png" height="150px" sid="potrait" > &nbsp &nbsp<br></a> &nbsp					
+	<a ><img src="pic/ARapp/Light.png" height="150px" style="margin-bottom:-3px"> </a> 
+	<a><img src="pic/ARapp/Light2.png" height="150" style="margin-bottom:-3px"> </a> 
+	<a><img src="pic/ARapp/Solar altitude.png" height="150px" sid="potrait" >p<br></a> 					
     
 
-- <a href="https://github.com/Xinyue-Jiao/Exploring-the-contour-lines" target="_blank">⛰️Exploring the contour lines</a>[Image-based]</a>:  Helping students observe contour lines from different angles.  Adopted by <b> five </b>elementary schools in China</li>
-- <a href="https://github.com/Xinyue-Jiao/Diverse-electrolytes" target="_blank">🧪 Diverse electrolytes</a>[Image-based]: Simulation of chemical reactions between different electrolytes using AR technology. </li>
-- 🌍 Our Earth</a>[location-based]: Earth Landscapes and English vocabulary acquisition .  Adopted by<b> five </b> elementary schools in China</li>
+- <a href="https://github.com/Xinyue-Jiao/Exploring-the-contour-lines" target="_blank">⛰️Exploring the contour lines</a>[Image-based]</a>:  Helping students observe contour lines from different angles.  Adopted by <b> five </b>elementary schools in China
+- <a href="https://github.com/Xinyue-Jiao/Diverse-electrolytes" target="_blank">🧪 Diverse electrolytes</a>[Image-based]: Simulation of chemical reactions between different electrolytes using AR technology. 
+- 🌍 Our Earth</a>[location-based]: Earth Landscapes and English vocabulary acquisition .  Adopted by<b> five </b> elementary schools in China
 	
 	
-	<a ><img src="pic/ARapp/Contour.png" height="150px" style="margin-bottom:-3px"> &nbsp &nbsp</a> &nbsp
-	<a ><img src="pic/ARapp/dianjiezhi.png" height="150" style="margin-bottom:-3px"> &nbsp &nbsp</a> &nbsp
-	<a ><img src="pic/ARapp/OurEarth.png" height="150px" sid="potrait" > &nbsp &nbsp<br></a> &nbsp					
+	<a ><img src="pic/ARapp/Contour.png" height="150px" style="margin-bottom:-3px"> </a> &nbsp
+	<a ><img src="pic/ARapp/dianjiezhi.png" height="150" style="margin-bottom:-3px"> </a> 
+	<a ><img src="pic/ARapp/OurEarth.png" height="150px" sid="potrait" > <br></a> 				
     <p><b>AR + Mathematics education</b></p>
 	
-- <a href="https://github.com/Xinyue-Jiao/Linear-function" target="_blank">📝Linear function</a>[Image-based]</a>: Real-time presentation of the V-t function of the character running. Adopted by <b> one </b>elementary schools in China</li>
-- <a href="https://github.com/Xinyue-Jiao/Segmentation-Functions" target="_blank"> 🐝Segmentation Functions</a>[Image-based]</a>: Change the speed of the bees and record the time and distance the bees fly in real time. Adopted by <b> one </b>elementary schools in China</li>
-- <a href="https://github.com/Xinyue-Jiao/Pursue-and-encounter-problems" target="_blank">🏃Pursue and encounter problems</a>[Image-based]</a>: Visuallization of pursuit and encounter problems in mathematics . Adopted by <b> one </b>elementary schools in China</li>
+- <a href="https://github.com/Xinyue-Jiao/Linear-function" target="_blank">📝Linear function</a>[Image-based]</a>: Real-time presentation of the V-t function of the character running. Adopted by <b> one </b>elementary schools in China
+- <a href="https://github.com/Xinyue-Jiao/Segmentation-Functions" target="_blank"> 🐝Segmentation Functions</a>[Image-based]</a>: Change the speed of the bees and record the time and distance the bees fly in real time. Adopted by <b> one </b>elementary schools in China
+- <a href="https://github.com/Xinyue-Jiao/Pursue-and-encounter-problems" target="_blank">🏃Pursue and encounter problems</a>[Image-based]</a>: Visuallization of pursuit and encounter problems in mathematics . Adopted by <b> one </b>elementary schools in China
 	
-	<a ><img src="pic/ARapp/run.png" height="150px" style="margin-bottom:-3px"> &nbsp &nbsp</a> &nbsp
-	<a ><img src="pic/ARapp/bee.png" height="150" style="margin-bottom:-3px"> &nbsp &nbsp</a> &nbsp
-	<a ><img src="pic/ARapp/mathszhuiji.png" height="150px" sid="potrait" > &nbsp &nbsp<br></a> &nbsp					
+	<a ><img src="pic/ARapp/run.png" height="150px" style="margin-bottom:-3px"> &nbsp &nbsp</a> 
+	<a ><img src="pic/ARapp/bee.png" height="150" style="margin-bottom:-3px"> &nbsp &nbsp</a> 
+	<a ><img src="pic/ARapp/mathszhuiji.png" height="150px" sid="potrait" > &nbsp &nbsp<br></a> 					
     <p> More details:  see this video👇<br></p>
 	<p><iframe width="560" height="315" src="https://www.youtube.com/embed/AFe8amnUDw0" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 	</p>
