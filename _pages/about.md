@@ -30,21 +30,24 @@ My  academic interest is the design and application of Augmented Reality & Virtu
 		
 - Learning science and technology, learning analytics, Multimodal learning analysis 
 - The application of AR/VR in education
-- Learning analytics, AI,Automated assessment, formative assessment, stealth assessment
+- AI,Automated assessment, formative assessment, stealth assessment
 - Game-based Learning, Game design, interaction design
 - generative AI, AI chatbox
   
 To this end, I have made the following efforts:
 	As two long-term goals, I expect to achieve:
 	
- - Design Building practical and intelligent dialogue systems. I am excited about simple and effective approaches that can 
+ - Design learning environment using imersive technolgoy and educational theories. I am excited about creat and design simple and effective approaches that can 
 		be generalizable to real-world conversation scenarios.
 	
- - LA and assessment Developing principled and fundamental methods for natural language generation. I am interested in how human knowledge
+ - LA and assessment. I am interested in discoveing and inteprete the 
+ - how human knowledge
 		(e.g., factual, commonsense, etc.) can be reasoned and used in natural language generation.
 	
- Recently, I find AI has a great power especially in supporting learning analytics,  so I am  
- - AI 
+ Recently, I find AI has a great power especially in content creatiot and data analytics,  so I am  trying to integrating AI into the designing of leanring environment and the analysis of data. So recently, I am try to explore:
+ 
+ - Integrating generative AI into AR content creation
+ - AI-supported automated assessment
 
 # 📝 Publications 
 ## Journal Papers
@@ -169,9 +172,9 @@ Jiao, X., Liu, Z., & Cai, S. (2020). The influence of augmented reality embeddin
 - <a href="https://github.com/Xinyue-Jiao/Segmentation-Functions" target="_blank"> 🐝Segmentation Functions</a>[Image-based]</a>: Change the speed of the bees and record the time and distance the bees fly in real time. Adopted by <b> one </b>elementary schools in China
 - <a href="https://github.com/Xinyue-Jiao/Pursue-and-encounter-problems" target="_blank">🏃Pursue and encounter problems</a>[Image-based]</a>: Visuallization of pursuit and encounter problems in mathematics . Adopted by <b> one </b>elementary schools in China
 	
-	<a ><img src="pic/ARapp/run.png" height="150px" style="margin-bottom:-3px"> &nbsp &nbsp</a> 
-	<a ><img src="pic/ARapp/bee.png" height="150" style="margin-bottom:-3px"> &nbsp &nbsp</a> 
-	<a ><img src="pic/ARapp/mathszhuiji.png" height="150px" sid="potrait" > &nbsp &nbsp<br></a> 					
+	<a ><img src="pic/ARapp/run.png" height="150px" style="margin-bottom:-3px"> </a> 
+	<a ><img src="pic/ARapp/bee.png" height="150" style="margin-bottom:-3px"> </a> 
+	<a ><img src="pic/ARapp/mathszhuiji.png" height="150px" sid="potrait" > <br></a> 					
     <p> More details:  see this video👇<br></p>
 	<p><iframe width="560" height="315" src="https://www.youtube.com/embed/AFe8amnUDw0" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 	</p>
@@ -184,10 +187,11 @@ Jiao, X., Liu, Z., & Cai, S. (2020). The influence of augmented reality embeddin
 
 
 
-- <a href="https://Xinyue-Jiao.github.io/pdf/STEM/wateringrobot.pdf" target="_blank">📰 Watering Robot </a>: Using robots to program the shortest path for watering the botanical garden </li>
-- <a href="https://Xinyue-Jiao.github.io/pdf/STEM/LittleMouse.pdf" target="_blank">📰Little Mouse's Journey to Apple Land </a>: Using mbot programming to help mice eat apples. </li>
-- 📰Traffic safety assistant-formation of traffic lights: Solving traffic signal problems using programming .</li>
-- 📰Traffic safety assistant-formation of traffic lights: Solving traffic signal problems using programming .</li>📰Rapid Rescue: Use programming to develop rescue plans to help save hostages from the jungle .</li>
+- <a href="https://Xinyue-Jiao.github.io/pdf/STEM/wateringrobot.pdf" target="_blank">📰 Watering Robot </a>: Using robots to program the shortest path for watering the botanical garden 
+- <a href="https://Xinyue-Jiao.github.io/pdf/STEM/LittleMouse.pdf" target="_blank">📰Little Mouse's Journey to Apple Land </a>: Using mbot programming to help mice eat apples. 
+- 📰Traffic safety assistant-formation of traffic lights: Solving traffic signal problems using programming.
+- 📰Traffic safety assistant-formation of traffic lights: Solving traffic signal problems using programming.
+- 📰Rapid Rescue: Use programming to develop rescue plans to help save hostages from the jungle.
 	
 
 
