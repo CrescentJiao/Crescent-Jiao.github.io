@@ -193,6 +193,23 @@ Jiao, X., Liu, Z., & Cai, S. (2020). The influence of augmented reality embeddin
 - 📰Traffic safety assistant-formation of traffic lights: Solving traffic signal problems using programming.
 - 📰Rapid Rescue: Use programming to develop rescue plans to help save hostages from the jungle.
 	
+# Skills
+
+**AR Design and Development：**
+-	AR Software Design and Development(Unity3D),3D Modeling(3D max), Graphic Design(Photoshop),
+-	Developed nine AR applications (image/location-based) about science, languages, and mathematics (https://youtu.be/AFe8amnUDw0)
+**Instructional Design & Development：**
+-	Instructional design, E-Learning (Storyline), Motion Graphic Animation Production (Animiz)
+-	Designed four STEM/programming courses
+-	Designed five AR courses 
+**Research Methods:** 
+-	Quantitative- Survey/experiment Design, Learning analytics(Cluster analysis, Lag Sequential Analysis, Epistemic Network Analysis), Structural Equation Modeling(AMOS/SmartPLS);
+-	Qualitative- Discourse analysis(NVivo), Semi-Structured Interviews
+**Programming:**
+Fluent in and C, C#/C++, Java, HTML, Unity 3D, Vuforia; Intermediate in Python, R, LaTex, Eyetracking
+Languages:
+ Chinese (native), English (fluent), TOEFL(100), GRE(324)
+
 
 
 # 🎖 Honors and Awards
