@@ -28,8 +28,8 @@ My research interest includes learning analytics, AR, formative assessment and c
 
 My  academic interest is the design and application of Augmented Reality & Virtual Reality in education and Game-based Learning. In the process of implementation, I am passion about using quantitative/quanlitative method such as learning analytics to understand students' interactions in the learning environment, and thus using the anlytics results to improve students' learning experience, such as using data visulization, dashborad etc. 
 		
+- The design and development of AR/VR in education
 - Learning science and technology, learning analytics, Multimodal learning analysis 
-- The application of AR/VR in education
 - AI,Automated assessment, formative assessment, stealth assessment
 - Game-based Learning, Game design, interaction design
 - generative AI, AI chatbox
@@ -104,7 +104,7 @@ Focusing on the effects of integrating collaborative scripts into AR inquiry act
 
 *Principle Investigator*
 
-**Paper:** Jiao, X., </b>Liu, Z., Zhou, H., & Cai, S. (2022). The Effect of Role Assignment on Students' Collaborative Inquiry-based Learning in Augmented Reality Environment. Proceedings of the 22nd International Conference on Advanced Learning Technologies, ICALT 2022, July 1, 2022 - July 4, 2022, Bucharest, Romania. (EI) <a href="https://ieeexplore.ieee.org/document/9853793">https://doi.org/10.1109/ICALT55010.2022.00109</a>
+**Paper:** Jiao, X., Liu, Z., Zhou, H., & Cai, S. (2022). The Effect of Role Assignment on Students' Collaborative Inquiry-based Learning in Augmented Reality Environment. Proceedings of the 22nd International Conference on Advanced Learning Technologies, ICALT 2022, July 1, 2022 - July 4, 2022, Bucharest, Romania. (EI) <a href="https://ieeexplore.ieee.org/document/9853793">https://doi.org/10.1109/ICALT55010.2022.00109</a>
 
 **Thesis:** A study on the Influence and Mechanisms of Role Assignment and Collaborative Scripts on the Effects of Collaborative Inquiry among Secondary School Students in the AR Environment
 </div>
