@@ -1,4 +1,4 @@
----
+![image](https://github.com/Xinyue-Jiao/Crescent-Jiao.github.io/assets/120199461/cf9d481e-dcd7-4e7b-95af-ee3df2082f72)---
 permalink: /
 title: ""
 excerpt: ""
@@ -17,37 +17,36 @@ redirect_from:
 
 <span class='anchor' id='about-me'></span>
 
-I am a Research assistant at Faculty of Education, Beijing normal university, where I participated in AR apps design and collected and analysed data. I am doing research about improving learner's leanring expereince by learning with AR apps using learning analytics methods.
+I am a Research assistant at the Faculty of Education, Beijing Normal University, where I participated in AR app design and collected and analyzed data. I am doing research about improving learners' learning experience by learning with AR apps using learning analytics methods.
 
-I graduated from Faculty of education <a href="https://english.bnu.edu.cn/">Beijing Normal University (BNU) (北京师范大学)</a> with a Master’s degree in Educational Technology ,  advised by Prof. <a href="https://www.researchgate.net/profile/Su-Cai" target="_blank"> Su Cai</a>.  I was a research assistant in <a href="https://www.researchgate.net/lab/VR-AR-Education-Lab-Su-Cai" target="_blank"> "AR/VR+Education" Lab. 
+I graduated from the Faculty of Education <a href="https://english.bnu.edu.cn/">Beijing Normal University (BNU) (北京师范大学)</a> with a Master’s degree in Educational Technology,  advised by Prof. <a href="https://www.researchgate.net/profile/Su-Cai" target="_blank"> Su Cai</a>.  I was a research assistant in <a href="https://www.researchgate.net/lab/VR-AR-Education-Lab-Su-Cai" target="_blank"> "AR/VR+Education" Lab. 
 
-My research interest includes learning analytics, AR, formative assessment and collaborative learning. I have published 10+ papers at the journals and international conferences related to educational technology. I am honored to be present my papers in top conferences, such as AERA, ICALT,ICBL, ICCE and so on.
+My research interest includes learning analytics, AR, formative assessment, and collaborative learning. I have published 10+ papers in journals and international conferences related to educational technology. I am honored to present my papers in top conferences, such as AERA, ICALT, ICBL, ICCE and so on.
+
+
 
 
 # 🎓 Research Interests
 
-My  academic interest is the design and application of Augmented Reality & Virtual Reality in education and Game-based Learning. In the process of implementation, I am passion about using quantitative/quanlitative method such as learning analytics to understand students' interactions in the learning environment, and thus using the anlytics results to improve students' learning experience, such as using data visulization, dashborad etc. 
+My academic interest is the design and application of Augmented Reality and Virtual Reality in education and Game-based Learning. In the process of implementation, I am passionate about using quantitative/qualitative methods such as learning analytics to understand students' interactions in the learning environment, and thus using the analytics results to improve students' learning experience, such as using data visualization, dashboards, etc. 
 		
 - The design and development of AR/VR in education
 - Learning science and technology, learning analytics, Multimodal learning analysis 
-- AI,Automated assessment, formative assessment, stealth assessment
+- AI, Automated assessment, formative assessment, stealth assessment
 - Game-based Learning, Game design, interaction design
 - generative AI, AI chatbox
   
 To this end, I have made the following efforts:
-	As two long-term goals, I expect to achieve:
 	
- - Design learning environment using imersive technolgoy and educational theories. I am excited about creat and design simple and effective approaches that can 
-		be generalizable to real-world conversation scenarios.
+ - Design learning environments using immersive technology and educational theories. I am excited about creating and designing.
 	
- - LA and assessment. I am interested in discoveing and inteprete the 
- - how human knowledge
-		(e.g., factual, commonsense, etc.) can be reasoned and used in natural language generation.
-	
- Recently, I find AI has a great power especially in content creatiot and data analytics,  so I am  trying to integrating AI into the designing of leanring environment and the analysis of data. So recently, I am try to explore:
+ - Learning analytics and assessment. I am interested in discovering and interpreting the data generated from learning processes or learning outcomes.
+   
+ Recently, I have found that AI has great power, especially in content creation and data analytics,  so I am trying to integrate AI into the designing of learning environments and the analysis of data. So recently, I have been trying to explore:
  
  - Integrating generative AI into AR content creation
- - AI-supported automated assessment
+ - AI-supported automated assessment and analysis
+
 
 # 📝 Publications 
 ## Journal Papers
@@ -95,7 +94,8 @@ To this end, I have made the following efforts:
 
 **Integrating Learning Analytics and Learning Design: Exploration of AR-Enhanced Science Courses with AI Integration**
 
-A project that aims to design AR (Augmented Reality) application for elementary school students to learn about the digestive and circulatory systems. With instant diagnostic and predictive capabilities, the AR systems includes teacher dashboard to track student behavior. Additionally, it utilizes AI and log data for further analysis of student behavior . 
+A project that aims to design AR (Augmented Reality) application for elementary school students to learn about the digestive and circulatory systems. With instant diagnostic and predictive capabilities, the AR systems include teacher dashboard to track student behavior. Additionally, it utilizes AI and log data for further analysis of student behavior.
+
 
 *student researcher*
 </div>
@@ -111,7 +111,7 @@ A project that aims to design AR (Augmented Reality) application for elementary 
 - Cai, S., <b>Jiao, X., </b> Li, J., Jin, P., Zhou, H., & Wang, T. (2022). Conceptions of learning science among elementary school students in AR learning environment: A case study of "The Magic Sound." Sustainability (Switzerland), 14(11). doi:10.3390/su14116783
  [<a href="https://www.mdpi.com/2071-1050/14/11/6783">url</a>]
 - Y., Yang, Y., Cai, S., Wen, Y., Li, J., &  <b>Jiao, X., </b> (2021). AR learning environment integrated with EIA inquiry model: enhancing scientific literacy and reducing the cognitive load of students. Sustainability (Switzerland), 13(22). doi:10.3390/su132212787 (IF=3.889, Q2) (SSCI)	[<a href="https://www.mdpi.com/2071-1050/13/22/12787">url</a>]
-
+- Jiao, X., Liu, Z., & Cai, S. (2020). The influence of augmented reality embedding cognitive scaffolds on elementary students' scientific learning. Proceedings of the 28th International Conference on Computers in Education, ICCE 2020, November 23, 2020 - November 27, 2020, Virtual, Online. (EI) [Nominated for the Best Overall Paper Award]
 </div>
 </div>
 
@@ -148,24 +148,7 @@ Designed and implemented an AR-based multi-representational learning environment
 </div>
 </div>
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">CVPR 2016</div><img src='images/light1.jpg' alt="sym" width="100%"></div></div>
-<div class='paper-box-text' markdown="1">
-	
-**Research on multi-channel information fusion computation and evaluation in intelligent AR learning environment（ The NSF of China)**
 
-.
-
-*Co-investigator* 
-
-**Paper:** Cai, S., Jiao, X., Li, J., Jin, P., Zhou, H., & Wang, T. (2022). Conceptions of learning science among elementary school students in AR learning environment: A case study of "The Magic Sound." Sustainability (Switzerland), 14(11). doi:10.3390/su14116783 (IF= 3.889, Rank= 133/279, Q2) (SSCI)
-
-Yang, Y., Cai, S., Wen, Y., Li, J., & Jiao, X. (2021). AR learning environment integrated with EIA inquiry model: enhancing scientific literacy and reducing the cognitive load of students. Sustainability (Switzerland), 13(22). doi:10.3390/su132212787 (IF=3.889, Rank= 133/279, Q2) (SSCI)
-
-Jiao, X., Liu, Z., & Cai, S. (2020). The influence of augmented reality embedding cognitive scaffolds on elementary students' scientific learning. Proceedings of the 28th International Conference on Computers in Education, ICCE 2020, November 23, 2020 - November 27, 2020, Virtual, Online. (EI) [Nominated for the Best Overall Paper Award]
-
-
-</div>
-</div>
 
 ## My apps/games
 <p><b>AR + STEM education</b></p>
