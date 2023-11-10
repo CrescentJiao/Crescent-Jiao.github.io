@@ -17,7 +17,7 @@ redirect_from:
 
 <span class='anchor' id='about-me'></span>
 
-I am a Research assistant at National Institute of Education, Nanyang Technological University <a href="https://www.ntu.edu.sg/nie"> (NIE NTU)</a>, Singapore, where I participated in AR apps design and collected and analysed data. I am doing research about improving learner's leanring expereince by learning with AR apps using learning analytics methods.
+I am a Research assistant at Faculty of Education, Beijing normal university, where I participated in AR apps design and collected and analysed data. I am doing research about improving learner's leanring expereince by learning with AR apps using learning analytics methods.
 
 I graduated from Faculty of education <a href="https://english.bnu.edu.cn/">Beijing Normal University (BNU) (北京师范大学)</a> with a Master’s degree in Educational Technology ,  advised by Prof. <a href="https://www.researchgate.net/profile/Su-Cai" target="_blank"> Su Cai</a>.  I was a research assistant in <a href="https://www.researchgate.net/lab/VR-AR-Education-Lab-Su-Cai" target="_blank"> "AR/VR+Education" Lab. 
 
@@ -53,6 +53,8 @@ To this end, I have made the following efforts:
 ## Journal Papers
 
 - Cai, S., <b>Jiao, X., </b> Li, J., Jin, P., Zhou, H., & Wang, T. (2022). Conceptions of learning science among elementary school students in AR learning environment: A case study of "The Magic Sound." Sustainability (Switzerland), 14(11). doi:10.3390/su14116783
+        
+        
  [<a href="https://www.mdpi.com/2071-1050/14/11/6783">url</a>]
 - Li, S., Shen, Y., <b>Jiao, X., </b> & Cai, S. (2022). Using Augmented Reality to enhance students' representational fluency: the case of linear functions. Mathematics, 10(10). doi:10.3390/math10101718[<a href="https://www.mdpi.com/2227-7390/10/10/1718">url</a>]
 - Y., Yang, Y., Cai, S., Wen, Y., Li, J., &  <b>Jiao, X., </b> (2021). AR learning environment integrated with EIA inquiry model: enhancing scientific literacy and reducing the cognitive load of students. Sustainability (Switzerland), 13(22). doi:10.3390/su132212787 (IF=3.889, Q2) (SSCI)	[<a href="https://www.mdpi.com/2071-1050/13/22/12787">url</a>]
@@ -234,7 +236,8 @@ Jiao, X., Liu, Z., & Cai, S. (2020). The influence of augmented reality embeddin
 **Programming:**
  	
 - Fluent in and C, C#/C++, Java, HTML, Unity 3D, Vuforia; Intermediate in Python, R, LaTex, Eyetracking
-Languages:
+**Languages:**
+  
 - Chinese (native), English (fluent), TOEFL(100), GRE(324)
 
 
@@ -259,7 +262,7 @@ Languages:
 - *2021.03*, Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet.  \| [\[video\]](https://github.com/)
 
 # 💻 Work Experience
-- 2023/08 - present：Research Assistant, National Institute of Education, Nanyang Technological Univ, Singapore.
+- 2020/08 - present：Research Assistant,Faculty of Education, Beijing Normal Univ, China.
 - 2020/11 - 2021/08: Teaching Assistant, Faculty of Education, Beijing Normal Univ, China.
 - 2020/11 - 2022/11: Research Assistant, VR/AR + Education Lab, Beijing Normal Univ, China.	
 - 2019/09 - 2019/12: Research Assistant, School of Educational Information Tech, CCNU.
