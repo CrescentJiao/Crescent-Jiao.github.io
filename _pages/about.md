@@ -124,7 +124,7 @@ a>
 </div>
 </div>
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">CVPR 2016</div><img src='images/projects/math1.jpg' alt="sym" width="100%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">CVPR 2016</div><img src='images/projects/math1.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 	
 **Using Augmented Reality to enhance students' representational fluency and self-efficacy**
@@ -146,9 +146,9 @@ Designed and implemented an AR-based multi-representational learning environment
 <p><b>AR + STEM education</b></p>
  
 
-- <a href="https://github.com/Xinyue-Jiao/The-three-primary-colors-of-light" target="_blank"> 🚥The three primary colors of light</a>[Image-based]: Helping children learn the law of the three primary colors of light . Adopted by <b> five </b>elementary schools in China</li>
-- <a href="https://github.com/Xinyue-Jiao/Dispersion-of-Light" target="_blank"> 🕎 Dispersion of Light</a>[Image-based]</a>: Helping children learn the dispersion of light .   Adopted by <b> one </b>elementary schools in China</li>
-- <a href="https://github.com/Xinyue-Jiao/Mystery-of-solar-altitude" target="_blank">🌞 Mystery of solar altitude</a>[Image-based]</a>: Using AR and 3D models to simulate changes in solar altitude throughout the day.</li>
+- <a href="https://github.com/Xinyue-Jiao/The-three-primary-colors-of-light" target="_blank"> 🚥The three primary colors of light</a>[Image-based]: Helping children learn the law of the three primary colors of light . Adopted by <b> five </b>elementary schools in China
+- <a href="https://github.com/Xinyue-Jiao/Dispersion-of-Light" target="_blank"> 🕎 Dispersion of Light</a>[Image-based]</a>: Helping children learn the dispersion of light .   Adopted by <b> one </b>elementary schools in China
+- <a href="https://github.com/Xinyue-Jiao/Mystery-of-solar-altitude" target="_blank">🌞 Mystery of solar altitude</a>[Image-based]</a>: Using AR and 3D models to simulate changes in solar altitude throughout the day.
 
 	<a ><img src="images/ARapp/Light.png" height="150px" style="margin-bottom:-3px"> </a> 
 	<a><img src="images/ARapp/Light2.png" height="150" style="margin-bottom:-3px"> </a> 
@@ -160,18 +160,18 @@ Designed and implemented an AR-based multi-representational learning environment
 - 🌍 Our Earth</a>[location-based]: Earth Landscapes and English vocabulary acquisition .  Adopted by<b> five </b> elementary schools in China
 	
 	
-	<a ><img src="pic/ARapp/Contour.png" height="150px" style="margin-bottom:-3px"> </a> &nbsp
-	<a ><img src="pic/ARapp/dianjiezhi.png" height="150" style="margin-bottom:-3px"> </a> 
-	<a ><img src="pic/ARapp/OurEarth.png" height="150px" sid="potrait" > <br></a> 				
+	<a ><img src="images/ARapp/Contour.png" height="150px" style="margin-bottom:-3px"> </a> &nbsp
+	<a ><img src="images/ARapp/dianjiezhi.png" height="150" style="margin-bottom:-3px"> </a> 
+	<a ><img src="images/ARapp/OurEarth.png" height="150px" sid="potrait" > <br></a> 				
     <p><b>AR + Mathematics education</b></p>
 	
 - <a href="https://github.com/Xinyue-Jiao/Linear-function" target="_blank">📝Linear function</a>[Image-based]</a>: Real-time presentation of the V-t function of the character running. Adopted by <b> one </b>elementary schools in China
 - <a href="https://github.com/Xinyue-Jiao/Segmentation-Functions" target="_blank"> 🐝Segmentation Functions</a>[Image-based]</a>: Change the speed of the bees and record the time and distance the bees fly in real time. Adopted by <b> one </b>elementary schools in China
 - <a href="https://github.com/Xinyue-Jiao/Pursue-and-encounter-problems" target="_blank">🏃Pursue and encounter problems</a>[Image-based]</a>: Visuallization of pursuit and encounter problems in mathematics . Adopted by <b> one </b>elementary schools in China
 	
-	<a ><img src="pic/ARapp/run.png" height="150px" style="margin-bottom:-3px"> </a> 
-	<a ><img src="pic/ARapp/bee.png" height="150" style="margin-bottom:-3px"> </a> 
-	<a ><img src="pic/ARapp/mathszhuiji.png" height="150px" sid="potrait" > <br></a> 					
+	<a ><img src="images/ARapp/run.png" height="150px" style="margin-bottom:-3px"> </a> 
+	<a ><img src="images/ARapp/bee.png" height="150" style="margin-bottom:-3px"> </a> 
+	<a ><img src="images/ARapp/mathszhuiji.png" height="150px" sid="potrait" > <br></a> 					
     <p> More details:  see this video👇<br></p>
 	<p><iframe width="560" height="315" src="https://www.youtube.com/embed/AFe8amnUDw0" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 	</p>
