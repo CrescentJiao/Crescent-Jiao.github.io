@@ -48,6 +48,7 @@ To this end, I have made the following efforts:
  - AI-supported automated assessment and analysis
 
 
+
 # 📝 Publications 
 ## Journal Papers
 
@@ -75,16 +76,10 @@ To this end, I have made the following efforts:
 		[<a href="https://ieeexplore.ieee.org/document/9853786">url</a>]
  - Jiao, X., </b> Yi, C., Liu, C., Xie, Y., & Ma, N. (2021). How Different Cognitive Style Groups Affect Learners' Knowledge Construction in Collaborative Argumentation. Proceedings of the 13th International Conference on Education Technology and Computers, ICETC 2021, May 24, 2021- June 2, 2021, Virtual, Online. (EI)
 	[<a href="https://Xinyue-Jiao.github.io/pdf/publications/ICETC2021How.pdf">paper</a>]
-		[<a href="https://dl.acm.org/doi/10.1145/3498765.3498831
-        
-        ">url</a>]
+		[<a href="https://dl.acm.org/doi/10.1145/3498765.3498831">url</a>]
 - Liu, Z.,<b>Jiao, X., </b> & Cai, S. (2021). Effects of Augmented Reality on students' online physics learning. Proceedings of the American Educational Research Association, AERA 2021, April 8, 2021 - April 12, 2021, Virtual, Online.
 	[<a href="https://Xinyue-Jiao.github.io/pdf/publications/AERA.pdf">paper</a>]
-		[<a href="https://doi.org/10.3102/1687194
-        
-        
-        
-        ">url</a>]
+		[<a href="https://doi.org/10.3102/1687194">url</a>]
 - Jiao, X., </b>& Lin, Y. R. (2019). The influence of argumentation strategy on students' web-based argumentation in different scientific concepts. Proceedings of the 2019 International Symposium on Educational Technology, ISET 2019, July 2, 2019 - July 4, 2019, Hradec Kralove, Czech Republic. (EI)
 	[<a href="https://Xinyue-Jiao.github.io/pdf/publications/ISET2019Argu_Strategys.pdf">paper</a>]
 		[<a href="https://ieeexplore.ieee.org/document/8782235">url</a>]
@@ -97,8 +92,6 @@ To this end, I have made the following efforts:
 **Integrating Learning Analytics and Learning Design: Exploration of AR-Enhanced Science Courses with AI Integration**
 
 A project that aims to design AR (Augmented Reality) application for elementary school students to learn about the digestive and circulatory systems. With instant diagnostic and predictive capabilities, the AR systems include teacher dashboard to track student behavior. Additionally, it utilizes AI and log data for further analysis of student behavior.
-
-
 *student researcher*
 </div>
 </div>
@@ -114,9 +107,7 @@ A project that aims to design AR (Augmented Reality) application for elementary 
         
         
  [<a href="https://www.mdpi.com/2071-1050/14/11/6783">url</a>]
-- Y., Yang, Y., Cai, S., Wen, Y., Li, J., &  <b>Jiao, X., </b> (2021). AR learning environment integrated with EIA inquiry model: enhancing scientific literacy and reducing the cognitive load of students. Sustainability (Switzerland), 13(22). doi:10.3390/su132212787
-        
-         (IF=3.889, Q2) (SSCI)	<a href="https://www.mdpi.com/2071-1050/13/22/12787">url</a>]
+- Y., Yang, Y., Cai, S., Wen, Y., Li, J., &  <b>Jiao, X., </b> (2021). AR learning environment integrated with EIA inquiry model: enhancing scientific literacy and reducing the cognitive load of students. Sustainability (Switzerland), 13(22). doi:10.3390/su132212787(IF=3.889, Q2) (SSCI)	<a href="https://www.mdpi.com/2071-1050/13/22/12787">url</a>]
 - Jiao, X., Liu, Z., & Cai, S. (2020). The influence of augmented reality embedding cognitive scaffolds on elementary students' scientific learning. Proceedings of the 28th International Conference on Computers in Education, ICCE 2020, November 23, 2020 - November 27, 2020, Virtual, Online. (EI) [Nominated for the Best Overall Paper Award]
 </div>
 </div>
@@ -127,6 +118,7 @@ A project that aims to design AR (Augmented Reality) application for elementary 
 **The mechanism of the collaborative scripts on the effects of collaborative inquiry in AR environment**
 
 Focusing on the effects of integrating collaborative scripts into AR inquiry activities. Using learning analytics methods, such as cluster analysis, Lag Sequential Analysis, etc., to analyze students' collaborative inquiry performance.
+
 
 *Principle Investigator*
 
