@@ -1,4 +1,4 @@
-![image](https://github.com/Xinyue-Jiao/Crescent-Jiao.github.io/assets/120199461/cf9d481e-dcd7-4e7b-95af-ee3df2082f72)---
+---
 permalink: /
 title: ""
 excerpt: ""
@@ -52,10 +52,7 @@ To this end, I have made the following efforts:
 # 📝 Publications 
 ## Journal Papers
 
-- Cai, S., <b>Jiao, X., </b> Li, J., Jin, P., Zhou, H., & Wang, T. (2022). Conceptions of learning science among elementary school students in AR learning environment: A case study of "The Magic Sound." Sustainability (Switzerland), 14(11). doi:10.3390/su14116783
-        
-        
- [<a href="https://www.mdpi.com/2071-1050/14/11/6783">url</a>]
+- Cai, S., <b>Jiao, X., </b> Li, J., Jin, P., Zhou, H., & Wang, T. (2022). Conceptions of learning science among elementary school students in AR learning environment: A case study of "The Magic Sound." Sustainability (Switzerland), 14(11). doi:10.3390/su14116783[<a href="https://www.mdpi.com/2071-1050/14/11/6783">url</a>]
 - Li, S., Shen, Y., <b>Jiao, X., </b> & Cai, S. (2022). Using Augmented Reality to enhance students' representational fluency: the case of linear functions. Mathematics, 10(10). doi:10.3390/math10101718[<a href="https://www.mdpi.com/2227-7390/10/10/1718">url</a>]
 - Y., Yang, Y., Cai, S., Wen, Y., Li, J., &  <b>Jiao, X., </b> (2021). AR learning environment integrated with EIA inquiry model: enhancing scientific literacy and reducing the cognitive load of students. Sustainability (Switzerland), 13(22). doi:10.3390/su132212787 (IF=3.889, Q2) (SSCI)	[<a href="https://www.mdpi.com/2071-1050/13/22/12787">url</a>]
 - Cai, S., <b>Jiao, X., </b>Song, B. (2022) Opening another door of Education: Application, Challenge, and Prospect of Educational Metaverse. Modern Educational Technology, (1): 16-26. [In Chinese, CSSCI]			
@@ -86,7 +83,7 @@ To this end, I have made the following efforts:
 		   
 # 🗂️ Projects
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">2023</div><img src='images/digestive.png' alt="sym" width="100%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">AR+AI</div><img src='images/digestive.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
 **Integrating Learning Analytics and Learning Design: Exploration of AR-Enhanced Science Courses with AI Integration**
@@ -95,7 +92,7 @@ A project that aims to design AR (Augmented Reality) application for elementary 
 *student researcher*
 </div>
 </div>
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">CVPR 2016</div><img src='images/bishe.png' alt="sym" width="100%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">Intelligent ARLE</div><img src='images/bishe.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 	
 **Research on Multi-Channel Information Fusion Computation and Evaluation in Intelligent Augmented Reality Learning Environment, NSF of China funded**
@@ -104,16 +101,14 @@ A project that aims to design AR (Augmented Reality) application for elementary 
 
 **Paper:** 
 - Cai, S., <b>Jiao, X., </b> Li, J., Jin, P., Zhou, H., & Wang, T. (2022). Conceptions of learning science among elementary school students in AR learning environment: A case study of "The Magic Sound." Sustainability (Switzerland), 14(11). doi:10.3390/su14116783
-        
-        
  [<a href="https://www.mdpi.com/2071-1050/14/11/6783">url</a>]
 - Y., Yang, Y., Cai, S., Wen, Y., Li, J., &  <b>Jiao, X., </b> (2021). AR learning environment integrated with EIA inquiry model: enhancing scientific literacy and reducing the cognitive load of students. Sustainability (Switzerland), 13(22). doi:10.3390/su132212787(IF=3.889, Q2) (SSCI)	<a href="https://www.mdpi.com/2071-1050/13/22/12787">url</a>]
 - Jiao, X., Liu, Z., & Cai, S. (2020). The influence of augmented reality embedding cognitive scaffolds on elementary students' scientific learning. Proceedings of the 28th International Conference on Computers in Education, ICCE 2020, November 23, 2020 - November 27, 2020, Virtual, Online. (EI) [Nominated for the Best Overall Paper Award]
 </div>
 </div>
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">CVPR 2016</div><img src='images/bishe.png' alt="sym" width="100%"></div></div>
-<div class='paper-box-text' markdown="1">
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">Collaboration in ARLE</div><img src='images/bishe.png' alt="sym" width="100%"></div></div>
+<div class='paper-box-text' markdown="1"> 
 	
 **The mechanism of the collaborative scripts on the effects of collaborative inquiry in AR environment**
 
