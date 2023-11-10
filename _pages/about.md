@@ -154,14 +154,14 @@ Designed and implemented an AR-based multi-representational learning environment
 <div class='paper-box-image' style="display: flex;">
 	<div>
 	<div class="badge">The three primary colors of light</div>
-	<img src='images/ARapp/Light.png' alt="sym" width="60%">  </div>
+	<img src='images/ARapp/Light.png' alt="sym" width="100%">  </div>
  	<div>
       <div class="badge">Dispersion of Light</div>
-      <img src='images/projects/math2.png' alt="sym" width="100%">
+      <img src='images/projects/Light2.png' alt="sym" width="100%">
    	 </div>
 	<div>
       <div class="badge">Mystery of solar altitude</div>
-     <img src='images/ARapp/Solar altitude.png' alt="sym" width="60%">
+     <img src='images/ARapp/Solar altitude.png' alt="sym" width="100%">
     </div>
 </div> 					
  </div>
