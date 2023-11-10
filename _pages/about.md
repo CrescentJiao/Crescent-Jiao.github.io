@@ -149,11 +149,13 @@ Designed and implemented an AR-based multi-representational learning environment
 - <a href="https://github.com/Xinyue-Jiao/The-three-primary-colors-of-light" target="_blank"> 🚥The three primary colors of light</a>[Image-based]: Helping children learn the law of the three primary colors of light . Adopted by <b> five </b>elementary schools in China
 - <a href="https://github.com/Xinyue-Jiao/Dispersion-of-Light" target="_blank"> 🕎 Dispersion of Light</a>[Image-based]</a>: Helping children learn the dispersion of light .   Adopted by <b> one </b>elementary schools in China
 - <a href="https://github.com/Xinyue-Jiao/Mystery-of-solar-altitude" target="_blank">🌞 Mystery of solar altitude</a>[Image-based]</a>: Using AR and 3D models to simulate changes in solar altitude throughout the day.
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">The three primary colors of light</div><img src='images/ARapp/Light.png' alt="sym" width="50%"></div></div>
 
 	<a ><img src="images/ARapp/Light.png" height="150px" style="margin-bottom:-3px"> </a> 
 	<a><img src="images/ARapp/Light2.png" height="150" style="margin-bottom:-3px"> </a> 
 	<a><img src="images/ARapp/Solar altitude.png" height="150px" sid="potrait" >p<br></a> 					
-    
+   </div>
+
 
 - <a href="https://github.com/Xinyue-Jiao/Exploring-the-contour-lines" target="_blank">⛰️Exploring the contour lines</a>[Image-based]</a>:  Helping students observe contour lines from different angles.  Adopted by <b> five </b>elementary schools in China
 - <a href="https://github.com/Xinyue-Jiao/Diverse-electrolytes" target="_blank">🧪 Diverse electrolytes</a>[Image-based]: Simulation of chemical reactions between different electrolytes using AR technology. 
@@ -173,7 +175,7 @@ Designed and implemented an AR-based multi-representational learning environment
 	<a ><img src="images/ARapp/bee.png" height="150" style="margin-bottom:-3px"> </a> 
 	<a ><img src="images/ARapp/mathszhuiji.png" height="150px" sid="potrait" > <br></a> 					
     <p> More details:  see this video👇<br></p>
-	<p><iframe width="560" height="315" src="https://www.youtube.com/embed/AFe8amnUDw0" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+	<p><iframe width="400" height="225" src="https://www.youtube.com/embed/AFe8amnUDw0" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 	</p>
    
  
