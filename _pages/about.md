@@ -82,6 +82,8 @@ To this end, I have made the following efforts:
 	[<a href="https://Xinyue-Jiao.github.io/pdf/publications/AERA.pdf">paper</a>]
 		[<a href="https://doi.org/10.3102/1687194
         
+        
+        
         ">url</a>]
 - Jiao, X., </b>& Lin, Y. R. (2019). The influence of argumentation strategy on students' web-based argumentation in different scientific concepts. Proceedings of the 2019 International Symposium on Educational Technology, ISET 2019, July 2, 2019 - July 4, 2019, Hradec Kralove, Czech Republic. (EI)
 	[<a href="https://Xinyue-Jiao.github.io/pdf/publications/ISET2019Argu_Strategys.pdf">paper</a>]
@@ -109,8 +111,12 @@ A project that aims to design AR (Augmented Reality) application for elementary 
 
 **Paper:** 
 - Cai, S., <b>Jiao, X., </b> Li, J., Jin, P., Zhou, H., & Wang, T. (2022). Conceptions of learning science among elementary school students in AR learning environment: A case study of "The Magic Sound." Sustainability (Switzerland), 14(11). doi:10.3390/su14116783
+        
+        
  [<a href="https://www.mdpi.com/2071-1050/14/11/6783">url</a>]
-- Y., Yang, Y., Cai, S., Wen, Y., Li, J., &  <b>Jiao, X., </b> (2021). AR learning environment integrated with EIA inquiry model: enhancing scientific literacy and reducing the cognitive load of students. Sustainability (Switzerland), 13(22). doi:10.3390/su132212787 (IF=3.889, Q2) (SSCI)	[<a href="https://www.mdpi.com/2071-1050/13/22/12787">url</a>]
+- Y., Yang, Y., Cai, S., Wen, Y., Li, J., &  <b>Jiao, X., </b> (2021). AR learning environment integrated with EIA inquiry model: enhancing scientific literacy and reducing the cognitive load of students. Sustainability (Switzerland), 13(22). doi:10.3390/su132212787
+        
+         (IF=3.889, Q2) (SSCI)	<a href="https://www.mdpi.com/2071-1050/13/22/12787">url</a>]
 - Jiao, X., Liu, Z., & Cai, S. (2020). The influence of augmented reality embedding cognitive scaffolds on elementary students' scientific learning. Proceedings of the 28th International Conference on Computers in Education, ICCE 2020, November 23, 2020 - November 27, 2020, Virtual, Online. (EI) [Nominated for the Best Overall Paper Award]
 </div>
 </div>
@@ -118,15 +124,14 @@ A project that aims to design AR (Augmented Reality) application for elementary 
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">CVPR 2016</div><img src='images/bishe.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 	
-**the mechanism of the collaborative scripts on the effects of collaborative inquiry in AR environment**
+**The mechanism of the collaborative scripts on the effects of collaborative inquiry in AR environment**
 
 Focusing on the effects of integrating collaborative scripts into AR inquiry activities. Using learning analytics methods, such as cluster analysis, Lag Sequential Analysis, etc., to analyze students' collaborative inquiry performance.
 
 *Principle Investigator*
 
-**Paper:** Jiao, X., Liu, Z., Zhou, H., & Cai, S. (2022). The Effect of Role Assignment on Students' Collaborative Inquiry-based Learning in Augmented Reality Environment. Proceedings of the 22nd International Conference on Advanced Learning Technologies, ICALT 2022, July 1, 2022 - July 4, 2022, Bucharest, Romania. (EI) <a href="https://ieeexplore.ieee.org/document/9853793">https://doi.org/10.1109/ICALT55010.2022.00109
-        
-        a>
+**Paper:** Jiao, X., Liu, Z., Zhou, H., & Cai, S. (2022). The Effect of Role Assignment on Students' Collaborative Inquiry-based Learning in Augmented Reality Environment. Proceedings of the 22nd International Conference on Advanced Learning Technologies, ICALT 2022, July 1, 2022 - July 4, 2022, Bucharest, Romania. (EI) <a href="https://ieeexplore.ieee.org/document/9853793">https://doi.org/10.1109/ICALT55010.2022.00109      
+a>
 
 **Thesis:** A study on the Influence and Mechanisms of Role Assignment and Collaborative Scripts on the Effects of Collaborative Inquiry among Secondary School Students in the AR Environment
 </div>
@@ -241,8 +246,7 @@ Designed and implemented an AR-based multi-representational learning environment
 - *2016.09 - 2020.06*, Bachelor in Educational TechnologyCentral China Normal University, Wuhan, China.
 
 # 💬 Invited Talks
-- *2021.06*, Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
-- *2021.03*, Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet.  \| [\[video\]](https://github.com/)
+
 
 # 💻 Work Experience
 - 2020/08 - present：Research Assistant,Faculty of Education, Beijing Normal Univ, China.
