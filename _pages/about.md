@@ -51,7 +51,7 @@ To this end, I have made the following efforts:
 
 # 📝 Publications 
 ## Journal Papers
-- Li, S., **Jiao, X.**, Shen, Y., Li, J., & Cai, S. (2023). Explore AR-based learning environments that promote students’ mathematics learning and self-efficacy: The case of motion problems. Journal of Research on Technology in Education. [In progress] (IF=3.281, Q2) (SSCI)
+
 - Cai, S., <b>Jiao, X., </b> Li, J., Jin, P., Zhou, H., & Wang, T. (2022). Conceptions of learning science among elementary school students in AR learning environment: A case study of "The Magic Sound." Sustainability (Switzerland), 14(11). doi:10.3390/su14116783
  [<a href="https://www.mdpi.com/2071-1050/14/11/6783">url</a>]
 - Li, S., Shen, Y., <b>Jiao, X., </b> & Cai, S. (2022). Using Augmented Reality to enhance students' representational fluency: the case of linear functions. Mathematics, 10(10). doi:10.3390/math10101718[<a href="https://www.mdpi.com/2227-7390/10/10/1718">url</a>]
@@ -74,10 +74,14 @@ To this end, I have made the following efforts:
 		[<a href="https://ieeexplore.ieee.org/document/9853786">url</a>]
  - Jiao, X., </b> Yi, C., Liu, C., Xie, Y., & Ma, N. (2021). How Different Cognitive Style Groups Affect Learners' Knowledge Construction in Collaborative Argumentation. Proceedings of the 13th International Conference on Education Technology and Computers, ICETC 2021, May 24, 2021- June 2, 2021, Virtual, Online. (EI)
 	[<a href="https://Xinyue-Jiao.github.io/pdf/publications/ICETC2021How.pdf">paper</a>]
-		[<a href="https://dl.acm.org/doi/10.1145/3498765.3498831">url</a>]
+		[<a href="https://dl.acm.org/doi/10.1145/3498765.3498831
+        
+        ">url</a>]
 - Liu, Z.,<b>Jiao, X., </b> & Cai, S. (2021). Effects of Augmented Reality on students' online physics learning. Proceedings of the American Educational Research Association, AERA 2021, April 8, 2021 - April 12, 2021, Virtual, Online.
 	[<a href="https://Xinyue-Jiao.github.io/pdf/publications/AERA.pdf">paper</a>]
-		[<a href="https://doi.org/10.3102/1687194">url</a>]
+		[<a href="https://doi.org/10.3102/1687194
+        
+        ">url</a>]
 - Jiao, X., </b>& Lin, Y. R. (2019). The influence of argumentation strategy on students' web-based argumentation in different scientific concepts. Proceedings of the 2019 International Symposium on Educational Technology, ISET 2019, July 2, 2019 - July 4, 2019, Hradec Kralove, Czech Republic. (EI)
 	[<a href="https://Xinyue-Jiao.github.io/pdf/publications/ISET2019Argu_Strategys.pdf">paper</a>]
 		[<a href="https://ieeexplore.ieee.org/document/8782235">url</a>]
@@ -87,24 +91,40 @@ To this end, I have made the following efforts:
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">2023</div><img src='images/digestive.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
-**Integrating Learning Analytics and Learning Design: Building an Eco-system to Leverage Augmented Reality in Singapore Schools**
+**Integrating Learning Analytics and Learning Design: Exploration of AR-Enhanced Science Courses with AI Integration**
 
-A project that aims to design AR (Augmented Reality) application for elementary school students to learn about the digestive and circulatory systems. With instant diagnostic and predictive capabilities, the AR systems includes dashboard to track student behavior. Additionally, it utilizes AI and log data for further analysis of student behavior . 
+A project that aims to design AR (Augmented Reality) application for elementary school students to learn about the digestive and circulatory systems. With instant diagnostic and predictive capabilities, the AR systems includes teacher dashboard to track student behavior. Additionally, it utilizes AI and log data for further analysis of student behavior . 
 
 *student researcher*
+</div>
+</div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">CVPR 2016</div><img src='images/bishe.png' alt="sym" width="100%"></div></div>
+<div class='paper-box-text' markdown="1">
+	
+**Research on Multi-Channel Information Fusion Computation and Evaluation in Intelligent Augmented Reality Learning Environment, NSF of China funded**
+
+*Co-Investigator*
+
+**Paper:** 
+- Cai, S., <b>Jiao, X., </b> Li, J., Jin, P., Zhou, H., & Wang, T. (2022). Conceptions of learning science among elementary school students in AR learning environment: A case study of "The Magic Sound." Sustainability (Switzerland), 14(11). doi:10.3390/su14116783
+ [<a href="https://www.mdpi.com/2071-1050/14/11/6783">url</a>]
+- Y., Yang, Y., Cai, S., Wen, Y., Li, J., &  <b>Jiao, X., </b> (2021). AR learning environment integrated with EIA inquiry model: enhancing scientific literacy and reducing the cognitive load of students. Sustainability (Switzerland), 13(22). doi:10.3390/su132212787 (IF=3.889, Q2) (SSCI)	[<a href="https://www.mdpi.com/2071-1050/13/22/12787">url</a>]
+
 </div>
 </div>
 
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">CVPR 2016</div><img src='images/bishe.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
-
+	
 **the mechanism of the collaborative scripts on the effects of collaborative inquiry in AR environment**
 
 Focusing on the effects of integrating collaborative scripts into AR inquiry activities. Using learning analytics methods, such as cluster analysis, Lag Sequential Analysis, etc., to analyze students' collaborative inquiry performance.
 
 *Principle Investigator*
 
-**Paper:** Jiao, X., Liu, Z., Zhou, H., & Cai, S. (2022). The Effect of Role Assignment on Students' Collaborative Inquiry-based Learning in Augmented Reality Environment. Proceedings of the 22nd International Conference on Advanced Learning Technologies, ICALT 2022, July 1, 2022 - July 4, 2022, Bucharest, Romania. (EI) <a href="https://ieeexplore.ieee.org/document/9853793">https://doi.org/10.1109/ICALT55010.2022.00109</a>
+**Paper:** Jiao, X., Liu, Z., Zhou, H., & Cai, S. (2022). The Effect of Role Assignment on Students' Collaborative Inquiry-based Learning in Augmented Reality Environment. Proceedings of the 22nd International Conference on Advanced Learning Technologies, ICALT 2022, July 1, 2022 - July 4, 2022, Bucharest, Romania. (EI) <a href="https://ieeexplore.ieee.org/document/9853793">https://doi.org/10.1109/ICALT55010.2022.00109
+        
+        a>
 
 **Thesis:** A study on the Influence and Mechanisms of Role Assignment and Collaborative Scripts on the Effects of Collaborative Inquiry among Secondary School Students in the AR Environment
 </div>
