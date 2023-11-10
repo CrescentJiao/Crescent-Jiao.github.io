@@ -149,20 +149,22 @@ Designed and implemented an AR-based multi-representational learning environment
 - <a href="https://github.com/Xinyue-Jiao/The-three-primary-colors-of-light" target="_blank"> 🚥The three primary colors of light</a>[Image-based]: Helping children learn the law of the three primary colors of light . Adopted by <b> five </b>elementary schools in China
 - <a href="https://github.com/Xinyue-Jiao/Dispersion-of-Light" target="_blank"> 🕎 Dispersion of Light</a>[Image-based]</a>: Helping children learn the dispersion of light .   Adopted by <b> one </b>elementary schools in China
 - <a href="https://github.com/Xinyue-Jiao/Mystery-of-solar-altitude" target="_blank">🌞 Mystery of solar altitude</a>[Image-based]</a>: Using AR and 3D models to simulate changes in solar altitude throughout the day.
-<div class='paper-box'><div class='paper-box-image'style="display: flex;">
+
+<div class='paper-box'>
+<div class='paper-box-image' style="display: flex;">
 	<div>
 	<div class="badge">The three primary colors of light</div>
 	<img src='images/ARapp/Light.png' alt="sym" width="60%">  </div>
- <div>
+ 	<div>
       <div class="badge">Dispersion of Light</div>
       <img src='images/projects/math2.png' alt="sym" width="100%">
-    </div>
+   	 </div>
 	<div>
       <div class="badge">Mystery of solar altitude</div>
      <img src='images/ARapp/Solar altitude.png' alt="sym" width="60%">
     </div>
-	</div> 					
-   </div>
+</div> 					
+ </div>
 
 
 - <a href="https://github.com/Xinyue-Jiao/Exploring-the-contour-lines" target="_blank">⛰️Exploring the contour lines</a>[Image-based]</a>:  Helping students observe contour lines from different angles.  Adopted by <b> five </b>elementary schools in China
