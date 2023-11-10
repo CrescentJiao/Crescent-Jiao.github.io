@@ -124,7 +124,7 @@ a>
 </div>
 </div>
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">CVPR 2016</div><img src='images/math1.jpg' alt="sym" width="100%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">CVPR 2016</div><img src='images/projects/math1.jpg' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 	
 **Using Augmented Reality to enhance students' representational fluency and self-efficacy**
@@ -150,9 +150,9 @@ Designed and implemented an AR-based multi-representational learning environment
 - <a href="https://github.com/Xinyue-Jiao/Dispersion-of-Light" target="_blank"> 🕎 Dispersion of Light</a>[Image-based]</a>: Helping children learn the dispersion of light .   Adopted by <b> one </b>elementary schools in China</li>
 - <a href="https://github.com/Xinyue-Jiao/Mystery-of-solar-altitude" target="_blank">🌞 Mystery of solar altitude</a>[Image-based]</a>: Using AR and 3D models to simulate changes in solar altitude throughout the day.</li>
 
-	<a ><img src="pic/ARapp/Light.png" height="150px" style="margin-bottom:-3px"> </a> 
-	<a><img src="pic/ARapp/Light2.png" height="150" style="margin-bottom:-3px"> </a> 
-	<a><img src="pic/ARapp/Solar altitude.png" height="150px" sid="potrait" >p<br></a> 					
+	<a ><img src="images/ARapp/Light.png" height="150px" style="margin-bottom:-3px"> </a> 
+	<a><img src="images/ARapp/Light2.png" height="150" style="margin-bottom:-3px"> </a> 
+	<a><img src="images/ARapp/Solar altitude.png" height="150px" sid="potrait" >p<br></a> 					
     
 
 - <a href="https://github.com/Xinyue-Jiao/Exploring-the-contour-lines" target="_blank">⛰️Exploring the contour lines</a>[Image-based]</a>:  Helping students observe contour lines from different angles.  Adopted by <b> five </b>elementary schools in China
