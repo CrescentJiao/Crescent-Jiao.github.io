@@ -124,7 +124,7 @@ a>
 </div>
 </div>
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">CVPR 2016</div><img src='images/projects/math1.png' alt="sym" width="100%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">AR & mathe learning</div><img src='images/projects/math1.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 	
 **Using Augmented Reality to enhance students' representational fluency and self-efficacy**
