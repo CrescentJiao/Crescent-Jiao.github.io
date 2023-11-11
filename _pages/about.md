@@ -80,8 +80,10 @@ To this end, I have made the following efforts:
 	[<a href="https://Xinyue-Jiao.github.io/pdf/publications/ISET2019Argu_Strategys.pdf">paper</a>]
 		[<a href="https://ieeexplore.ieee.org/document/8782235">url</a>]
 
-  <span class='anchor' id='Projects'></span>
+
+   
 # 🗂️ Projects
+
 
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">AR+AI</div><img src='images/digestive.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
@@ -162,7 +164,7 @@ Designed and implemented an AR-based multi-representational learning environment
 </div>
 </div>
 
-## My apps/games
+## 🕹️ My apps/games
 **AR + STEM education**
  
 
@@ -242,7 +244,7 @@ More details:  see this video👇
   
 	
 	
-# Skills
+# 📊 Skills
 
 **AR Design and Development：**
 
