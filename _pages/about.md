@@ -152,16 +152,16 @@ Designed and implemented an AR-based multi-representational learning environment
 
 
 <div class='paper-box-image' style="display: flex;">
-	<div>
+	<div style="flex: 1;">
 	<div class="badge">The three primary colors of light</div>
-	<img src='images/ARapp/Light.png' alt="sym" width="100%">  </div>
- 	<div>
+	<img src='images/ARapp/Light.png' alt="sym" style="width: 100%;">  </div>
+ 	<div style="flex: 1;">
       <div class="badge">Dispersion of Light</div>
-      <img src='images/ARapp/Light2.png' alt="sym" width="100%">
+      <img src='images/ARapp/Light2.png' alt="sym" style="width: 100%;">
    	 </div>
-	<div>
+	<div style="flex: 1;">
       <div class="badge">Mystery of solar altitude</div>
-     <img src='images/ARapp/Solar altitude.png' alt="sym" width="100%">
+     <img src='images/ARapp/Solar altitude.png' alt="sym" style="width: 100%;">
     </div>
 </div> 					
  
@@ -183,9 +183,7 @@ Designed and implemented an AR-based multi-representational learning environment
      <img src='images/ARapp/OurEarth.png' alt="sym" width="100%">
     </div>
 </div> 	
-	<a ><img src="images/ARapp/Contour.png" height="150px" style="margin-bottom:-3px"> </a> &nbsp
-	<a ><img src="images/ARapp/dianjiezhi.png" height="150" style="margin-bottom:-3px"> </a> 
-	<a ><img src="images/ARapp/OurEarth.png" height="150px" sid="potrait" > <br></a> 				
+					
     <p><b>AR + Mathematics education</b></p>
 	
 - <a href="https://github.com/Xinyue-Jiao/Linear-function" target="_blank">📝Linear function</a>[Image-based]</a>: Real-time presentation of the V-t function of the character running. Adopted by <b> one </b>elementary schools in China
@@ -205,9 +203,7 @@ Designed and implemented an AR-based multi-representational learning environment
      <img src='images/ARapp/mathszhuiji.png' alt="sym" width="100%">
     </div>
 </div> 
-	<a ><img src="images/ARapp/run.png" height="150px" style="margin-bottom:-3px"> </a> 
-	<a ><img src="images/ARapp/bee.png" height="150" style="margin-bottom:-3px"> </a> 
-	<a ><img src="images/ARapp/mathszhuiji.png" height="150px" sid="potrait" > <br></a> 					
+						
     <p> More details:  see this video👇<br></p>
 	<p><iframe width="400" height="225" src="https://www.youtube.com/embed/AFe8amnUDw0" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 	</p>
