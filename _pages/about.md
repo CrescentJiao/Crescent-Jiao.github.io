@@ -82,8 +82,9 @@ To this end, I have made the following efforts:
 
 
    
-# 🗂️ Projects
+# Projects
 
+## Selceted projects
 
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">AR+AI</div><img src='images/digestive.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
