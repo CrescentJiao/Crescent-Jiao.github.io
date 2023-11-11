@@ -81,7 +81,7 @@ To this end, I have made the following efforts:
 		[<a href="https://ieeexplore.ieee.org/document/8782235">url</a>]
 
 
-# 🖼️ Pr
+# 🖼️ Research
 
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">AR+AI</div><img src='images/digestive.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
@@ -229,7 +229,7 @@ More details:  see this video👇
 	
    
 
-**STEM Curriculum Design Works**
+## STEM Curriculum Design Works
  
 - <a href="https://Xinyue-Jiao.github.io/pdf/STEM/wateringrobot.pdf" target="_blank">📰 Watering Robot </a>: Using robots to program the shortest path for watering the botanical garden 
 - <a href="https://Xinyue-Jiao.github.io/pdf/STEM/LittleMouse.pdf" target="_blank">📰Little Mouse's Journey to Apple Land </a>: Using mbot programming to help mice eat apples. 
@@ -300,16 +300,6 @@ More details:  see this video👇
 - 2017/07 - 2018/08: Programming Teacher, Robot Culture and Technology Company, Hubei, China.
 
 
-# 🖼️ Jiaoskills
-
-- 2022/10  National Scholarship of BNU(Top 1%)
-- 2021/10  First-class Scholarship of BNU(Top 5%)	
-- 2020/11  Best Paper Award Nomination, International Conference on Computers in Education (ICCE2020)	
-- 2020/06  Outstanding undergraduate graduate of CCNU
-- 2019/10  National Scholarship of CCNU(Top 1%)
-- 2019/10  Merit Student of CCNU(Top 10%)
-- 2019/08  First Prize of National College Student Computer Design Competition
-- 2017/11  Second Prize of National Iteach Digital Education Application Innovation Competition
 
 
 
