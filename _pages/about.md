@@ -124,7 +124,7 @@ a>
 </div>
 </div>
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">AR and mathematics learning</div><img src='images/projects/math1.jpg' alt="sym" width="100%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">AR and mathematics learning</div><img src='images/pojects/math1.jpg' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 	
 **Using Augmented Reality to enhance students' representational fluency and self-efficacy**
@@ -139,7 +139,7 @@ Designed and implemented an AR-based multi-representational learning environment
 </div>
 </div>
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">Collaborative Argumentation</div><img src='images/projects/math1.png' alt="sym" width="100%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">Collaborative Argumentation</div><img src='images/pojects/math1.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 	
 **The Role Pathways of Students’ Metacognitive Skills in Collaborative Argumentation**
@@ -149,12 +149,14 @@ Designed and implemented an AR-based multi-representational learning environment
 </div>
 </div>
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">STEM and computational thinking</div><img src='images/projects/stem4.jpg' alt="sym" width="100%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">STEM and computational thinking</div><img src='images/pojects/stem4.jpg' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 	
 **The Influence of Integrated STEM Courses on Students' Computational Thinking**
 
 *Principal Investigator*
+
+**Paper：** Jiao, X., Ouyang, C., Fan, S., Wang, P. & Gao, L. (2019). STEM+C curriculum design and application based on computational thinking teaching. Educational Information Technology. 2019(05), 43-46. [In Chinese] 
 
 </div>
 </div>
@@ -221,6 +223,7 @@ Designed and implemented an AR-based multi-representational learning environment
 More details:  see this video👇
 
 <iframe width="300" height="169" src="https://www.youtube.com/embed/AFe8amnUDw0" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
 	
    
 
@@ -267,6 +270,7 @@ More details:  see this video👇
 
 
 # 🎖 Honors and Awards
+
 - 2022/10  National Scholarship of BNU(Top 1%)
 - 2021/10  First-class Scholarship of BNU(Top 5%)	
 - 2020/11  Best Paper Award Nomination, International Conference on Computers in Education (ICCE2020)	
@@ -278,10 +282,10 @@ More details:  see this video👇
 
 
 # 📖 Educations
+
 - *2020.09 - 2023.06*, Master in Educational Technology, Beijing Normal University, Beijing, China.
 - *2016.09 - 2020.06*, Bachelor in Educational TechnologyCentral China Normal University, Wuhan, China.
 
-# 💬 Invited Talks
 
 
 # 💻 Work Experience
