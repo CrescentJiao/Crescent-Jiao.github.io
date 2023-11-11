@@ -115,7 +115,7 @@ A project that aims to design AR (Augmented Reality) application for elementary 
 Focusing on the effects of integrating collaborative scripts into AR inquiry activities. Using learning analytics methods, such as cluster analysis, Lag Sequential Analysis, etc., to analyze students' collaborative inquiry performance.
 
 
-*Principle Investigator*
+*Principal Investigator*
 
 **Paper:** Jiao, X., Liu, Z., Zhou, H., & Cai, S. (2022). The Effect of Role Assignment on Students' Collaborative Inquiry-based Learning in Augmented Reality Environment. Proceedings of the 22nd International Conference on Advanced Learning Technologies, ICALT 2022, July 1, 2022 - July 4, 2022, Bucharest, Romania. (EI) <a href="https://ieeexplore.ieee.org/document/9853793">https://doi.org/10.1109/ICALT55010.2022.00109      
 a>
@@ -124,7 +124,7 @@ a>
 </div>
 </div>
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">AR & mathe learning</div><img src='images/projects/math1.png' alt="sym" width="100%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">AR and mathematics learning</div><img src='images/projects/math1.jpg' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 	
 **Using Augmented Reality to enhance students' representational fluency and self-efficacy**
@@ -136,14 +136,31 @@ Designed and implemented an AR-based multi-representational learning environment
 *Joint Research Project among Columbia Univ, Beijing Normal Univ, and East China Normal Univ*
 
 **Paper:** Li, S., Shen, Y., Jiao, X., & Cai, S. (2022). Using Augmented Reality to enhance students' representational fluency: the case of linear functions. Mathematics, 10(10).  <a href="[https://ieeexplore.ieee.org/document/9853793](https://www.mdpi.com/2227-7390/10/10/1718)">https://doi:10.3390/math10101718</a>(IF= 2.592, Q1) (SSCI)
+</div>
+</div>
+
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">Collaborative Argumentation</div><img src='images/projects/math1.png' alt="sym" width="100%"></div></div>
+<div class='paper-box-text' markdown="1">
+	
+**The Role Pathways of Students’ Metacognitive Skills in Collaborative Argumentation**
+
+*Co-investigator*
 
 </div>
 </div>
 
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">STEM and computational thinking</div><img src='images/projects/stem4.jpg' alt="sym" width="100%"></div></div>
+<div class='paper-box-text' markdown="1">
+	
+**The Influence of Integrated STEM Courses on Students' Computational Thinking**
 
+*Principal Investigator*
+
+</div>
+</div>
 
 ## My apps/games
-<p><b>AR + STEM education</b></p>
+**AR + STEM education**
  
 
 - <a href="https://github.com/Xinyue-Jiao/The-three-primary-colors-of-light" target="_blank"> 🚥The three primary colors of light</a>[Image-based]: Helping children learn the law of the three primary colors of light . Adopted by <b> five </b>elementary schools in China
@@ -180,7 +197,7 @@ Designed and implemented an AR-based multi-representational learning environment
 </div>
 	
 					
-    <p><b>AR + Mathematics education</b></p>
+**AR + Mathematics education**
 	
 - <a href="https://github.com/Xinyue-Jiao/Linear-function" target="_blank">📝Linear function</a>[Image-based]</a>: Real-time presentation of the V-t function of the character running. Adopted by <b> one </b>elementary schools in China
 - <a href="https://github.com/Xinyue-Jiao/Segmentation-Functions" target="_blank"> 🐝Segmentation Functions</a>[Image-based]</a>: Change the speed of the bees and record the time and distance the bees fly in real time. Adopted by <b> one </b>elementary schools in China
@@ -203,13 +220,11 @@ Designed and implemented an AR-based multi-representational learning environment
       
 More details:  see this video👇
 
-<iframe width="400" height="225" src="https://www.youtube.com/embed/AFe8amnUDw0" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+<iframe width="300" height="169" src="https://www.youtube.com/embed/AFe8amnUDw0" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 	
    
- 
-    <h2>STEM Curriculum Design Works
-    </h2>
 
+**STEM Curriculum Design Works**
  
 - <a href="https://Xinyue-Jiao.github.io/pdf/STEM/wateringrobot.pdf" target="_blank">📰 Watering Robot </a>: Using robots to program the shortest path for watering the botanical garden 
 - <a href="https://Xinyue-Jiao.github.io/pdf/STEM/LittleMouse.pdf" target="_blank">📰Little Mouse's Journey to Apple Land </a>: Using mbot programming to help mice eat apples. 
@@ -218,7 +233,7 @@ More details:  see this video👇
 - 📰Rapid Rescue: Use programming to develop rescue plans to help save hostages from the jungle.
 
 <div class='horizontal-image-item'>
-        <div class="badge">Segmentation Functions</div> <img src='images/pojects/stem3.png' alt="sym">
+         <img src='images/pojects/stem3.png' alt="sym">
     </div>
   
 	
@@ -244,6 +259,7 @@ More details:  see this video👇
 **Programming:**
  	
 - Fluent in and C, C#/C++, Java, HTML, Unity 3D, Vuforia; Intermediate in Python, R, LaTex, Eyetracking
+  
 **Languages:**
   
 - Chinese (native), English (fluent), TOEFL(100), GRE(324)
