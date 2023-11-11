@@ -125,7 +125,7 @@ a>
 </div>
 </div>
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">AR and mathematics learning</div><img src='images/pojects/math1.jpg' alt="sym" width="100%"> <img src='images/pojects/RL1.png' alt="sym" width="100%"</div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">AR and mathematics learning</div><img src='images/pojects/math1.jpg' alt="sym" width="100%"> <img src='images/pojects/RL1.png' alt="sym" width="100%"> </div></div>
 <div class='paper-box-text' markdown="1">
 	
 **Using Augmented Reality to enhance students' representational fluency and self-efficacy**
