@@ -81,7 +81,7 @@ To this end, I have made the following efforts:
 		[<a href="https://ieeexplore.ieee.org/document/8782235">url</a>]
 
 
-# 🖼️ Projects
+# 🖼️ Projectsaaaaaa
 
 
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">AR+AI</div><img src='images/digestive.png' alt="sym" width="100%"></div></div>
