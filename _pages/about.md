@@ -81,223 +81,6 @@ To this end, I have made the following efforts:
 		[<a href="https://ieeexplore.ieee.org/document/8782235">url</a>]
 
 
-# 🖼️ Research
-
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">AR+AI</div><img src='images/digestive.png' alt="sym" width="100%"></div></div>
-<div class='paper-box-text' markdown="1">
-
-**Integrating Learning Analytics and Learning Design: Exploration of AR-Enhanced Science Courses with AI Integration**
-
-A project that aims to design AR (Augmented Reality) application for elementary school students to learn about the digestive and circulatory systems. With instant diagnostic and predictive capabilities, the AR systems include teacher dashboard to track student behavior. Additionally, it utilizes AI and log data for further analysis of student behavior.
-*student researcher*
-</div>
-</div>
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">Intelligent ARLE</div><img src='images/bishe.png' alt="sym" width="100%"></div></div>
-<div class='paper-box-text' markdown="1">
-	
-**Research on Multi-Channel Information Fusion Computation and Evaluation in Intelligent Augmented Reality Learning Environment, NSF of China funded**
-
-*Co-Investigator*
-
-**Paper:** 
-- Cai, S., <b>Jiao, X., </b> Li, J., Jin, P., Zhou, H., & Wang, T. (2022). Conceptions of learning science among elementary school students in AR learning environment: A case study of "The Magic Sound." Sustainability (Switzerland), 14(11). doi:10.3390/su14116783
-[<a href="https://www.mdpi.com/2071-1050/14/11/6783">url</a>]
-- Y., Yang, Y., Cai, S., Wen, Y., Li, J., &  <b>Jiao, X., </b> (2021). AR learning environment integrated with EIA inquiry model: enhancing scientific literacy and reducing the cognitive load of students. Sustainability (Switzerland), 13(22). doi:10.3390/su132212787(SSCI)	<a href="https://www.mdpi.com/2071-1050/13/22/12787">url</a>]
-- Jiao, X., Liu, Z., & Cai, S. (2020). The influence of augmented reality embedding cognitive scaffolds on elementary students' scientific learning. Proceedings of the 28th International Conference on Computers in Education, ICCE 2020, November 23, 2020 - November 27, 2020, Virtual, Online. (EI) [Nominated for the Best Overall Paper Award]
-</div>
-</div>
-
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">Collaboration in ARLE</div><img src='images/pojects/patterns.png' alt="sym" width="100%"></div></div>
-<div class='paper-box-text' markdown="1"> 
-	
-**The mechanism of the collaborative scripts on the effects of collaborative inquiry in AR environment**
-
-Focusing on the effects of integrating collaborative scripts into AR inquiry activities. Using learning analytics methods, such as cluster analysis, Lag Sequential Analysis, etc., to analyze students' collaborative inquiry performance.
-
-
-*Principal Investigator*
-
-**Paper:** Jiao, X., Liu, Z., Zhou, H., & Cai, S. (2022). The Effect of Role Assignment on Students' Collaborative Inquiry-based Learning in Augmented Reality Environment. Proceedings of the 22nd International Conference on Advanced Learning Technologies, ICALT 2022, July 1, 2022 - July 4, 2022, Bucharest, Romania. (EI) <a href="https://ieeexplore.ieee.org/document/9853793">https://doi.org/10.1109/ICALT55010.2022.00109      
-        
-a>
-
-**Thesis:** A study on the Influence and Mechanisms of Role Assignment and Collaborative Scripts on the Effects of Collaborative Inquiry among Secondary School Students in the AR Environment
-</div>
-</div>
-
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">AR and mathematics learning</div><img src='images/pojects/math1.jpg' alt="sym" width="100%"> <img src='images/pojects/RL1.png' alt="sym" width="100%"> </div></div>
-<div class='paper-box-text' markdown="1">
-	
-**Using Augmented Reality to enhance students' representational fluency and self-efficacy**
-
-Designed and implemented an AR-based multi-representational learning environment (MRLE) with three representations of linear functions to enhance middle school students' representational fluency and self-efficacy. Surveys, tests, and interview was conducted to analyze students' differences in learning sequences and preferences among students in terms of their representational learning profile.
-
-*Co-investigator*
-
-*Joint Research Project among Columbia Univ, Beijing Normal Univ, and East China Normal Univ*
-
-**Paper:** Li, S., Shen, Y., Jiao, X., & Cai, S. (2022). Using Augmented Reality to enhance students' representational fluency: the case of linear functions. Mathematics, 10(10).  <a href="[https://ieeexplore.ieee.org/document/9853793](https://www.mdpi.com/2227-7390/10/10/1718)">https://doi:10.3390/math10101718 </a> (SSCI)
-</div>
-</div>
-
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">Collaborative Argumentation</div><img src='images/pojects/CR.png' alt="sym" width="100%"></div></div>
-<div class='paper-box-text' markdown="1">
-	
-**The Role Pathways of Students’ Metacognitive Skills in Collaborative Argumentation**
-
-*Co-investigator*
-
-</div>
-</div>
-
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">STEM and computational thinking</div><img src='images/pojects/stem4.jpg' alt="sym" width="100%"></div></div>
-<div class='paper-box-text' markdown="1">
-	
-**The Influence of Integrated STEM Courses on Students' Computational Thinking**
-
-*Principal Investigator*
-
-**Paper：** Jiao, X., Ouyang, C., Fan, S., Wang, P. & Gao, L. (2019). STEM+C curriculum design and application based on computational thinking teaching. Educational Information Technology. 2019(05), 43-46. [In Chinese] 
-
-</div>
-</div>   
-
-
-## 🕹️ My apps/games
-
-**AR + STEM education**
-
-- <a href="https://github.com/CrescentJiao/The-three-primary-colors-of-light" target="_blank"> 🚥The three primary colors of light</a>[Image-based]: Helping children learn the law of the three primary colors of light . Adopted by <b> five </b>elementary schools in China
-- <a href="https://github.com/CrescentJiao/Dispersion-of-Light" target="_blank"> 🕎 Dispersion of Light</a>[Image-based]</a>: Helping children learn the dispersion of light .   Adopted by <b> one </b>elementary schools in China
-- <a href="https://github.com/CrescentJiao/Mystery-of-solar-altitude" target="_blank">🌞 Mystery of solar altitude</a>[Image-based]</a>: Using AR and 3D models to simulate changes in solar altitude throughout the day.
-					
- 
-<div class='horizontal-image-container'>
-    <div class='horizontal-image-item'>
-       <div class="badge">The three primary colors of light</div>  <img src='images/ARapp/Light.png' alt="sym" width="90%">
-    </div>
-    <div class='horizontal-image-item'>
-        <div class="badge">Dispersion of Light</div> <img src='images/ARapp/Light2.png' alt="sym">
-    </div>
-    <div class='horizontal-image-item'>
-       <div class="badge">Mystery of solar altitude</div> <img src='images/ARapp/Solar altitude.png' alt="sym">
-    </div>
-</div>
-
-- <a href="https://github.com/CrescentJiao/Exploring-the-contour-lines" target="_blank">⛰️Exploring the contour lines</a>[Image-based]</a>:  Helping students observe contour lines from different angles.  Adopted by <b> five </b>elementary schools in China
-- <a href="https://github.com/CrescentJiao/Diverse-electrolytes" target="_blank">🧪 Diverse electrolytes</a>[Image-based]: Simulation of chemical reactions between different electrolytes using AR technology. 
-- 🌍 Our Earth</a>[location-based]: Earth Landscapes and English vocabulary acquisition .  Adopted by<b> five </b> elementary schools in China
-
-<div class='horizontal-image-container'>
-    <div class='horizontal-image-item'>
-       <div class="badge">Exploring the contour lines</div>  <img src='images/ARapp/Contour.png' alt="sym" >
-    </div>
-    <div class='horizontal-image-item'>
-        <div class="badge">Diverse electrolytes</div> <img src='images/ARapp/dianjiezhi.png' alt="sym">
-    </div>
-    <div class='horizontal-image-item'>
-       <div class="badge"> Our Earth</div> <img src='images/ARapp/OurEarth.png' alt="sym">
-    </div>
-</div>
-	
-					
-**AR + Mathematics education**
-	
-- <a href="https://github.com/CrescentJiao/Linear-function" target="_blank">📝Linear function</a>[Image-based]</a>: Real-time presentation of the V-t function of the character running. Adopted by <b> one </b>elementary schools in China
-- <a href="https://github.com/CrescentJiao/Segmentation-Functions" target="_blank"> 🐝Segmentation Functions</a>[Image-based]</a>: Change the speed of the bees and record the time and distance the bees fly in real time. Adopted by <b> one </b>elementary schools in China
-- <a href="https://github.com/CrescentJiao/Pursue-and-encounter-problems" target="_blank">🏃Meeting and Overtaking Problem</a>[Image-based]</a>: Visuallization of pursuit and encounter problems in mathematics . Adopted by <b> one </b>elementary schools in China
-
-<div class='horizontal-image-container'>
-    <div class='horizontal-image-item'>
-       <div class="badge">Linear-function</div>  <img src='images/ARapp/run.png' alt="sym" >
-    </div>
-    <div class='horizontal-image-item'>
-        <div class="badge">Segmentation Functions</div> <img src='images/ARapp/bee.png' alt="sym">
-    </div>
-    <div class='horizontal-image-item'>
-       <div class="badge"> Meeting and Overtaking Problem</div> <img src='images/ARapp/mathszhuiji.png' alt="sym">
-    </div>
-</div>
-
-
-
-      
-More details:  see this video👇
-
-<iframe width="300" height="169" src="https://www.youtube.com/embed/AFe8amnUDw0" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
-
-	
-   
-
-## STEM Curriculum Design Works
- 
-- <a href="https://Xinyue-Jiao.github.io/pdf/STEM/wateringrobot.pdf" target="_blank">📰 Watering Robot </a>: Using robots to program the shortest path for watering the botanical garden 
-- <a href="https://Xinyue-Jiao.github.io/pdf/STEM/LittleMouse.pdf" target="_blank">📰Little Mouse's Journey to Apple Land </a>: Using mbot programming to help mice eat apples. 
-- 📰Traffic safety assistant-formation of traffic lights: Solving traffic signal problems using programming.
-- 📰Traffic safety assistant-formation of traffic lights: Solving traffic signal problems using programming.
-- 📰Rapid Rescue: Use programming to develop rescue plans to help save hostages from the jungle.
-
-<div class='horizontal-image-item'>
-         <img src='images/pojects/stem3.png' alt="sym">
-    </div>
-  
-	
-	
-# 📊 Skills
-
-**AR Design and Development：**
-
-- AR Software Design and Development(Unity3D),3D Modeling(3D max), Graphic Design(Photoshop),
-- Developed nine AR applications (image/location-based) about science, languages, and mathematics (https://youtu.be/AFe8amnUDw0)
-  
-**Instructional Design & Development：**
- 	
-- Instructional design, E-Learning (Storyline), Motion Graphic Animation Production (Animiz)
-- Designed four STEM/programming courses
-- Designed five AR courses
-  
-**Research Methods:**
- 	
-- Quantitative- Survey/experiment Design, Learning analytics(Cluster analysis, Lag Sequential Analysis, Epistemic Network Analysis), Structural Equation Modeling(AMOS/SmartPLS);
-- Qualitative- Discourse analysis(NVivo), Semi-Structured Interviews
-  
-**Programming:**
- 	
-- Fluent in and C, C#/C++, Java, HTML, Unity 3D, Vuforia; Intermediate in Python, LaTex, Eyetracking
-  
-**Languages:**
-  
-- Chinese (native), English (fluent), TOEFL(100), GRE(324)
-
-
-
-# 🎖 Honors and Awards
-
-- 2022/10  National Scholarship of BNU(Top 1%)
-- 2021/10  First-class Scholarship of BNU(Top 5%)	
-- 2020/11  Best Paper Award Nomination, International Conference on Computers in Education (ICCE2020)	
-- 2020/06  Outstanding undergraduate graduate of CCNU
-- 2019/10  National Scholarship of CCNU(Top 1%)
-- 2019/10  Merit Student of CCNU(Top 10%)
-- 2019/08  First Prize of National College Student Computer Design Competition
-- 2017/11  Second Prize of National Iteach Digital Education Application Innovation Competition
-
-
-# 📖 Educations
-
-- *2020.09 - 2023.06*, Master in Educational Technology, Beijing Normal University, Beijing, China.
-- *2016.09 - 2020.06*, Bachelor in Educational TechnologyCentral China Normal University, Wuhan, China.
-
-
-  
-# 💻 Work Experiences
-
-- 2020/08 - present：Research Assistant,Faculty of Education, Beijing Normal Univ, China.
-- 2020/11 - 2021/08: Teaching Assistant, Faculty of Education, Beijing Normal Univ, China.
-- 2020/11 - 2022/11: Research Assistant, VR/AR + Education Lab, Beijing Normal Univ, China.	
-- 2019/09 - 2019/12: Research Assistant, School of Educational Information Tech, CCNU.
-- 2021/09 - 2021/12: Science Teacher, Qingdao No.5 Middle School, Qingdao, China.
-- 2017/07 - 2018/08: Programming Teacher, Robot Culture and Technology Company, Hubei, China.
 
 
 # 💻 Research
@@ -463,4 +246,60 @@ More details:  see this video👇
 <div class='horizontal-image-item'>
          <img src='images/pojects/stem3.png' alt="sym">
     </div>
+
   
+# 📊 Skills
+
+**AR Design and Development：**
+
+- AR Software Design and Development(Unity3D),3D Modeling(3D max), Graphic Design(Photoshop),
+- Developed nine AR applications (image/location-based) about science, languages, and mathematics (https://youtu.be/AFe8amnUDw0)
+  
+**Instructional Design & Development：**
+ 	
+- Instructional design, E-Learning (Storyline), Motion Graphic Animation Production (Animiz)
+- Designed four STEM/programming courses
+- Designed five AR courses
+  
+**Research Methods:**
+ 	
+- Quantitative- Survey/experiment Design, Learning analytics(Cluster analysis, Lag Sequential Analysis, Epistemic Network Analysis), Structural Equation Modeling(AMOS/SmartPLS);
+- Qualitative- Discourse analysis(NVivo), Semi-Structured Interviews
+  
+**Programming:**
+ 	
+- Fluent in and C, C#/C++, Java, HTML, Unity 3D, Vuforia; Intermediate in Python, LaTex, Eyetracking
+  
+**Languages:**
+  
+- Chinese (native), English (fluent), TOEFL(100), GRE(324)
+
+
+
+# 🎖 Honors and Awards
+
+- 2022/10  National Scholarship of BNU(Top 1%)
+- 2021/10  First-class Scholarship of BNU(Top 5%)	
+- 2020/11  Best Paper Award Nomination, International Conference on Computers in Education (ICCE2020)	
+- 2020/06  Outstanding undergraduate graduate of CCNU
+- 2019/10  National Scholarship of CCNU(Top 1%)
+- 2019/10  Merit Student of CCNU(Top 10%)
+- 2019/08  First Prize of National College Student Computer Design Competition
+- 2017/11  Second Prize of National Iteach Digital Education Application Innovation Competition
+
+
+# 📖 Educations
+
+- *2020.09 - 2023.06*, Master in Educational Technology, Beijing Normal University, Beijing, China.
+- *2016.09 - 2020.06*, Bachelor in Educational TechnologyCentral China Normal University, Wuhan, China.
+
+
+  
+# 💻 Work Experiences
+
+- 2020/08 - present：Research Assistant,Faculty of Education, Beijing Normal Univ, China.
+- 2020/11 - 2021/08: Teaching Assistant, Faculty of Education, Beijing Normal Univ, China.
+- 2020/11 - 2022/11: Research Assistant, VR/AR + Education Lab, Beijing Normal Univ, China.	
+- 2019/09 - 2019/12: Research Assistant, School of Educational Information Tech, CCNU.
+- 2021/09 - 2021/12: Science Teacher, Qingdao No.5 Middle School, Qingdao, China.
+- 2017/07 - 2018/08: Programming Teacher, Robot Culture and Technology Company, Hubei, China.
