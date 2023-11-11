@@ -157,7 +157,7 @@ Designed and implemented an AR-based multi-representational learning environment
 	<img src='images/ARapp/Light.png' alt="sym" width="100%">  </div>
  	<div>
       <div class="badge">Dispersion of Light</div>
-      <img src='images/projects/Light2.png' alt="sym" width="100%">
+      <img src='images/ARapp/Light2.png' alt="sym" width="100%">
    	 </div>
 	<div>
       <div class="badge">Mystery of solar altitude</div>
@@ -170,7 +170,19 @@ Designed and implemented an AR-based multi-representational learning environment
 - <a href="https://github.com/Xinyue-Jiao/Diverse-electrolytes" target="_blank">🧪 Diverse electrolytes</a>[Image-based]: Simulation of chemical reactions between different electrolytes using AR technology. 
 - 🌍 Our Earth</a>[location-based]: Earth Landscapes and English vocabulary acquisition .  Adopted by<b> five </b> elementary schools in China
 	
-	
+	<div class='paper-box-image' style="display: flex;">
+	<div>
+	<div class="badge">The three primary colors of light</div>
+	<img src='images/ARapp/Contour.png' alt="sym" width="100%">  </div>
+ 	<div>
+      <div class="badge">Dispersion of Light</div>
+      <img src='images/ARapp/dianjiezhi.png' alt="sym" width="100%">
+   	 </div>
+	<div>
+      <div class="badge">Mystery of solar altitude</div>
+     <img src='images/ARapp/OurEarth.png' alt="sym" width="100%">
+    </div>
+</div> 	
 	<a ><img src="images/ARapp/Contour.png" height="150px" style="margin-bottom:-3px"> </a> &nbsp
 	<a ><img src="images/ARapp/dianjiezhi.png" height="150" style="margin-bottom:-3px"> </a> 
 	<a ><img src="images/ARapp/OurEarth.png" height="150px" sid="potrait" > <br></a> 				
@@ -179,7 +191,20 @@ Designed and implemented an AR-based multi-representational learning environment
 - <a href="https://github.com/Xinyue-Jiao/Linear-function" target="_blank">📝Linear function</a>[Image-based]</a>: Real-time presentation of the V-t function of the character running. Adopted by <b> one </b>elementary schools in China
 - <a href="https://github.com/Xinyue-Jiao/Segmentation-Functions" target="_blank"> 🐝Segmentation Functions</a>[Image-based]</a>: Change the speed of the bees and record the time and distance the bees fly in real time. Adopted by <b> one </b>elementary schools in China
 - <a href="https://github.com/Xinyue-Jiao/Pursue-and-encounter-problems" target="_blank">🏃Pursue and encounter problems</a>[Image-based]</a>: Visuallization of pursuit and encounter problems in mathematics . Adopted by <b> one </b>elementary schools in China
-	
+
+<div class='paper-box-image' style="display: flex;">
+	<div>
+	<div class="badge">The three primary colors of light</div>
+	<img src='images/ARapp/run.png' alt="sym" width="100%">  </div>
+ 	<div>
+      <div class="badge">Dispersion of Light</div>
+      <img src='images/ARapp/bee.png' alt="sym" width="100%">
+   	 </div>
+	<div>
+      <div class="badge">Mystery of solar altitude</div>
+     <img src='images/ARapp/mathszhuiji.png' alt="sym" width="100%">
+    </div>
+</div> 
 	<a ><img src="images/ARapp/run.png" height="150px" style="margin-bottom:-3px"> </a> 
 	<a ><img src="images/ARapp/bee.png" height="150" style="margin-bottom:-3px"> </a> 
 	<a ><img src="images/ARapp/mathszhuiji.png" height="150px" sid="potrait" > <br></a> 					
