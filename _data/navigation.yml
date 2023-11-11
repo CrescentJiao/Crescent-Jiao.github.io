@@ -9,8 +9,8 @@ main:
   - title: "Publications"
     url: "/#-publications"
 
-  - title: "Research Projects"
-    url: "/#-research-projects"
+  - title: "Projects"
+    url: "/#projects"
 
   # - title: "Skills"
     # url: "/#-skills"
@@ -23,10 +23,6 @@ main:
 
   - title: "Work Experiences"
     url: "/#-work-experiences"
-
-  - title: "Talks"
-    url: "/#-talks"
-
 
  # - title: "Internships"
  #   url: "/#-internships"
