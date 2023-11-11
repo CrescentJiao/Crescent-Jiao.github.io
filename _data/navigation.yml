@@ -18,6 +18,14 @@ main:
   - title: "Skills"
     url: "/#-skills"
 
+  - title: "Work Experiences"
+    url: "/#-work-experiences"
 
+  - title: "Service"
+    url: "/#-service"
+    
+  - title: "Jiao"
+    url: "/#-Jiao"
+    
  # - title: "Internships"
  #   url: "/#-internships"
