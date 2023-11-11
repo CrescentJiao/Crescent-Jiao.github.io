@@ -165,6 +165,17 @@ Designed and implemented an AR-based multi-representational learning environment
     </div>
 </div> 					
  
+<div class='horizontal-image-container'>
+    <div class='horizontal-image-item'>
+        <img src='images/ARapp/Light.png' alt="sym">
+    </div>
+    <div class='horizontal-image-item'>
+        <img src='images/ARapp/Light2.png' alt="sym">
+    </div>
+    <div class='horizontal-image-item'>
+        <img src='images/ARapp/Solar altitude.png' alt="sym">
+    </div>
+</div>
 
 - <a href="https://github.com/Xinyue-Jiao/Exploring-the-contour-lines" target="_blank">⛰️Exploring the contour lines</a>[Image-based]</a>:  Helping students observe contour lines from different angles.  Adopted by <b> five </b>elementary schools in China
 - <a href="https://github.com/Xinyue-Jiao/Diverse-electrolytes" target="_blank">🧪 Diverse electrolytes</a>[Image-based]: Simulation of chemical reactions between different electrolytes using AR technology. 
