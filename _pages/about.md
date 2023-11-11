@@ -289,7 +289,7 @@ More details:  see this video👇
 
 
 
-# 💻 Work Experience
+# 💻 Work Experiences
 - 2020/08 - present：Research Assistant,Faculty of Education, Beijing Normal Univ, China.
 - 2020/11 - 2021/08: Teaching Assistant, Faculty of Education, Beijing Normal Univ, China.
 - 2020/11 - 2022/11: Research Assistant, VR/AR + Education Lab, Beijing Normal Univ, China.	
