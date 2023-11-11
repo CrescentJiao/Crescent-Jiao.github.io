@@ -70,13 +70,13 @@ To this end, I have made the following efforts:
 - Feng, Z., Gong, C., <b>Jiao, X., </b> Liu, Z., & Cai, S. (2022). The Effects of AR Learning Environment on Preschool Children's Numerical Cognition. Proceedings of the 22nd International Conference on Advanced Learning Technologies, ICALT 2022, July 1, 2022 - July 4, 2022, Bucharest, Romania. (EI)
 	[<a href="https://Xinyue-Jiao.github.io/pdf/publications/ICALT2022Numerical.pdf">paper</a>]
 		[<a href="https://ieeexplore.ieee.org/document/9853786">url</a>]
- - Jiao, X., </b> Yi, C., Liu, C., Xie, Y., & Ma, N. (2021). How Different Cognitive Style Groups Affect Learners' Knowledge Construction in Collaborative Argumentation. Proceedings of the 13th International Conference on Education Technology and Computers, ICETC 2021, May 24, 2021- June 2, 2021, Virtual, Online. (EI)
+ - Jiao, X., Yi, C., Liu, C., Xie, Y., & Ma, N. (2021). How Different Cognitive Style Groups Affect Learners' Knowledge Construction in Collaborative Argumentation. Proceedings of the 13th International Conference on Education Technology and Computers, ICETC 2021, May 24, 2021- June 2, 2021, Virtual, Online. (EI)
 	[<a href="https://Xinyue-Jiao.github.io/pdf/publications/ICETC2021How.pdf">paper</a>]
 		[<a href="https://dl.acm.org/doi/10.1145/3498765.3498831">url</a>]
 - Liu, Z.,<b>Jiao, X., </b> & Cai, S. (2021). Effects of Augmented Reality on students' online physics learning. Proceedings of the American Educational Research Association, AERA 2021, April 8, 2021 - April 12, 2021, Virtual, Online.
 	[<a href="https://Xinyue-Jiao.github.io/pdf/publications/AERA.pdf">paper</a>]
 		[<a href="https://doi.org/10.3102/1687194">url</a>]
-- Jiao, X., </b>& Lin, Y. R. (2019). The influence of argumentation strategy on students' web-based argumentation in different scientific concepts. Proceedings of the 2019 International Symposium on Educational Technology, ISET 2019, July 2, 2019 - July 4, 2019, Hradec Kralove, Czech Republic. (EI)
+- Jiao, X., Lin, Y. R. (2019). The influence of argumentation strategy on students' web-based argumentation in different scientific concepts. Proceedings of the 2019 International Symposium on Educational Technology, ISET 2019, July 2, 2019 - July 4, 2019, Hradec Kralove, Czech Republic. (EI)
 	[<a href="https://Xinyue-Jiao.github.io/pdf/publications/ISET2019Argu_Strategys.pdf">paper</a>]
 		[<a href="https://ieeexplore.ieee.org/document/8782235">url</a>]
 
@@ -85,9 +85,7 @@ To this end, I have made the following efforts:
 
 # 💻 Research
 
-- Member of The Asia-Pacific Society for Computers in Education (APSCE) 
-- Program Committee of American Educational Research Association (AERA)
-- Volunteer Teacher of programming in an underdevelopment area of China
+
 
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">AR+AI</div><img src='images/digestive.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
@@ -303,3 +301,10 @@ More details:  see this video👇
 - 2019/09 - 2019/12: Research Assistant, School of Educational Information Tech, CCNU.
 - 2021/09 - 2021/12: Science Teacher, Qingdao No.5 Middle School, Qingdao, China.
 - 2017/07 - 2018/08: Programming Teacher, Robot Culture and Technology Company, Hubei, China.
+
+
+ # Service
+
+- Member of The Asia-Pacific Society for Computers in Education (APSCE) 
+- Program Committee of American Educational Research Association (AERA)
+- Volunteer Teacher of programming in an underdevelopment area of China
