@@ -211,14 +211,17 @@ More details:  see this video👇
     </h2>
 
  
-
-
-
 - <a href="https://Xinyue-Jiao.github.io/pdf/STEM/wateringrobot.pdf" target="_blank">📰 Watering Robot </a>: Using robots to program the shortest path for watering the botanical garden 
 - <a href="https://Xinyue-Jiao.github.io/pdf/STEM/LittleMouse.pdf" target="_blank">📰Little Mouse's Journey to Apple Land </a>: Using mbot programming to help mice eat apples. 
 - 📰Traffic safety assistant-formation of traffic lights: Solving traffic signal problems using programming.
 - 📰Traffic safety assistant-formation of traffic lights: Solving traffic signal problems using programming.
 - 📰Rapid Rescue: Use programming to develop rescue plans to help save hostages from the jungle.
+
+<div class='horizontal-image-item'>
+        <div class="badge">Segmentation Functions</div> <img src='images/pojects/stem3.png' alt="sym">
+    </div>
+  
+	
 	
 # Skills
 
