@@ -288,7 +288,7 @@ More details:  see this video👇
 - *2016.09 - 2020.06*, Bachelor in Educational TechnologyCentral China Normal University, Wuhan, China.
 
 
-  <span class='anchor' id='Work Experiences'></span>
+  
 # 💻 Work Experiences
 
 - 2020/08 - present：Research Assistant,Faculty of Education, Beijing Normal Univ, China.
