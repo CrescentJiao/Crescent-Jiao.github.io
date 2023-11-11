@@ -304,15 +304,9 @@ More details:  see this video👇
 # 🖼️ Jiao
 
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">AR+AI</div><img src='images/digestive.png' alt="sym" width="100%"></div></div>
-<div class='paper-box-text' markdown="1">
-
-**Integrating Learning Analytics and Learning Design: Exploration of AR-Enhanced Science Courses with AI Integration**
-
-A project that aims to design AR (Augmented Reality) application for elementary school students to learn about the digestive and circulatory systems. With instant diagnostic and predictive capabilities, the AR systems include teacher dashboard to track student behavior. Additionally, it utilizes AI and log data for further analysis of student behavior.
-*student researcher*
-</div>
-</div>
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">Intelligent ARLE</div><img src='images/bishe.png' alt="sym" width="100%"></div></div>
-<div class='paper-box-text' markdown="1">
-
+- 2020/08 - present：Research Assistant,Faculty of Education, Beijing Normal Univ, China.
+- 2020/11 - 2021/08: Teaching Assistant, Faculty of Education, Beijing Normal Univ, China.
+- 2020/11 - 2022/11: Research Assistant, VR/AR + Education Lab, Beijing Normal Univ, China.	
+- 2019/09 - 2019/12: Research Assistant, School of Educational Information Tech, CCNU.
+- 2021/09 - 2021/12: Science Teacher, Qingdao No.5 Middle School, Qingdao, China.
+- 2017/07 - 2018/08: Programming Teacher, Robot Culture and Technology Company, Hubei, China.
