@@ -300,14 +300,16 @@ More details:  see this video👇
 - 2017/07 - 2018/08: Programming Teacher, Robot Culture and Technology Company, Hubei, China.
 
 
-# 🖼️ Research Experiences
+# 🖼️ Jiaoskills
 
-- 2020/08 - present：Research Assistant,Faculty of Education, Beijing Normal Univ, China.
-- 2020/11 - 2021/08: Teaching Assistant, Faculty of Education, Beijing Normal Univ, China.
-- 2020/11 - 2022/11: Research Assistant, VR/AR + Education Lab, Beijing Normal Univ, China.	
-- 2019/09 - 2019/12: Research Assistant, School of Educational Information Tech, CCNU.
-- 2021/09 - 2021/12: Science Teacher, Qingdao No.5 Middle School, Qingdao, China.
-- 2017/07 - 2018/08: Programming Teacher, Robot Culture and Technology Company, Hubei, China.
+- 2022/10  National Scholarship of BNU(Top 1%)
+- 2021/10  First-class Scholarship of BNU(Top 5%)	
+- 2020/11  Best Paper Award Nomination, International Conference on Computers in Education (ICCE2020)	
+- 2020/06  Outstanding undergraduate graduate of CCNU
+- 2019/10  National Scholarship of CCNU(Top 1%)
+- 2019/10  Merit Student of CCNU(Top 10%)
+- 2019/08  First Prize of National College Student Computer Design Competition
+- 2017/11  Second Prize of National Iteach Digital Education Application Innovation Competition
 
 
 
