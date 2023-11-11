@@ -10,7 +10,7 @@ main:
     url: "/#-publications"
 
   - title: "Projects"
-    url: "/#projects"
+    url: "/#-projects"
 
   # - title: "Skills"
     # url: "/#-skills"
@@ -21,8 +21,8 @@ main:
   - title: "Educations"
     url: "/#-educations"
 
-  - title: "Work Experiences"
-    url: "/#-work-experiences"
+  #- title: "Work Experiences"
+  #  url: "/#-work-experiences"
 
  # - title: "Internships"
  #   url: "/#-internships"
