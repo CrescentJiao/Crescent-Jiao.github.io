@@ -203,10 +203,12 @@ Designed and implemented an AR-based multi-representational learning environment
      <img src='images/ARapp/mathszhuiji.png' alt="sym" width="100%">
     </div>
 </div> 
-						
-    <p> More details:  see this video👇<br></p>
-	<p><iframe width="400" height="225" src="https://www.youtube.com/embed/AFe8amnUDw0" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
-	</p>
+
+      
+More details:  see this video👇
+
+<iframe width="400" height="225" src="https://www.youtube.com/embed/AFe8amnUDw0" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+	
    
  
     <h2>STEM Curriculum Design Works
