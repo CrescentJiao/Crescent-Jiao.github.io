@@ -111,7 +111,7 @@ A project that aims to design AR (Augmented Reality) application for elementary 
 </div>
 </div>
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">Collaboration in ARLE</div><img src='images/popo je cpojects/patterns.png' alt="sym" width="100%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">Collaboration in ARLE</div><img src='images/pojects/patterns.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1"> 
 	
 **The mechanism of the collaborative scripts on the effects of collaborative inquiry in AR environment**
@@ -122,6 +122,10 @@ Focusing on the effects of integrating collaborative scripts into AR inquiry act
 *Principal Investigator*
 
 **Paper:** Jiao, X., Liu, Z., Zhou, H., & Cai, S. (2022). The Effect of Role Assignment on Students' Collaborative Inquiry-based Learning in Augmented Reality Environment. Proceedings of the 22nd International Conference on Advanced Learning Technologies, ICALT 2022, July 1, 2022 - July 4, 2022, Bucharest, Romania. (EI) <a href="https://ieeexplore.ieee.org/document/9853793">https://doi.org/10.1109/ICALT55010.2022.00109
+        
+        
+        
+        
         
         
         
@@ -147,11 +151,15 @@ Designed and implemented an AR-based multi-representational learning environment
         
         
         
+        
+        
+        
+        
         a>(IF= 2.592, Q1) (SSCI)
 </div>
 </div>
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">Collaborative Argumentation</div><img src='images/pojects/math1.png' alt="sym" width="100%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">Collaborative Argumentation</div><img src='images/pojects/CR.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 	
 **The Role Pathways of Students’ Metacognitive Skills in Collaborative Argumentation**
