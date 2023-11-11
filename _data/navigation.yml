@@ -12,17 +12,14 @@ main:
   - title: "Projects"
     url: "/#-projects"
 
-  # - title: "Skills"
-    # url: "/#-skills"
-
   - title: "Honors and Awards"
     url: "/#-honors-and-awards"
 
   - title: "Educations"
     url: "/#-educations"
 
-  #- title: "Work Experiences"
-  #  url: "/#-work-experiences"
+  - title: "Projects"
+    url: "/#-projects"
 
  # - title: "Internships"
  #   url: "/#-internships"
