@@ -10,10 +10,10 @@ main:
     url: "/#-publications"
     
   - title: "Research Projects"
-     url: "/#-Research-Projects"
+    url: "/#-Research-Projects"
 
   - title: "Skills"
-     url: "/#-Skills
+    url: "/#-Skills
     
   - title: "Honors and Awards"
     url: "/#-honors-and-awards"
@@ -21,8 +21,8 @@ main:
   - title: "Educations"
     url: "/#-educations"
 
-  - title: "Invited Talks"
-    url: "/#-invited-talks"
+  #- title: "Invited Talks"
+   # url: "/#-invited-talks"
 
   - title: "Work Experiences"
     url: "/#-Work-Experiences"
