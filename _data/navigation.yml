@@ -6,8 +6,8 @@ main:
   - title: "Publications"
     url: "/#-publications"
  
-#  - title: "Projects"
-#    url: "/#-projects"
+  - title: "Research"
+    url: "/#-research"
 
   - title: "Honors and Awards"
     url: "/#-honors-and-awards"
@@ -18,8 +18,6 @@ main:
   - title: "Skills"
     url: "/#-skills"
 
-  - title: "Jiaoskills"
-    url: "/#-jiaoskills"
 
  # - title: "Internships"
  #   url: "/#-internships"
