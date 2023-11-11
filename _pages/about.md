@@ -282,7 +282,7 @@ More details:  see this video👇
 - 2017/11  Second Prize of National Iteach Digital Education Application Innovation Competition
 
 
-# 📖 Education
+# 📖 Educations
 
 - *2020.09 - 2023.06*, Master in Educational Technology, Beijing Normal University, Beijing, China.
 - *2016.09 - 2020.06*, Bachelor in Educational TechnologyCentral China Normal University, Wuhan, China.
