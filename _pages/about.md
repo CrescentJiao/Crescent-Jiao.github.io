@@ -82,7 +82,7 @@ To this end, I have made the following efforts:
 
 
    
-# 🖼️ Projects
+# 🖼️ Research Projects
 
 ## Selceted projects
 
