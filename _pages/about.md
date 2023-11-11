@@ -301,12 +301,10 @@ More details:  see this video👇
 - 2017/07 - 2018/08: Programming Teacher, Robot Culture and Technology Company, Hubei, China.
 
 
-# 🖼️ Jiao
+# 🖼️ Test
 
 
-- 2020/08 - present：Research Assistant,Faculty of Education, Beijing Normal Univ, China.
-- 2020/11 - 2021/08: Teaching Assistant, Faculty of Education, Beijing Normal Univ, China.
-- 2020/11 - 2022/11: Research Assistant, VR/AR + Education Lab, Beijing Normal Univ, China.	
-- 2019/09 - 2019/12: Research Assistant, School of Educational Information Tech, CCNU.
-- 2021/09 - 2021/12: Science Teacher, Qingdao No.5 Middle School, Qingdao, China.
-- 2017/07 - 2018/08: Programming Teacher, Robot Culture and Technology Company, Hubei, China.
+**Research on Multi-Channel Information Fusion Computation and Evaluation in Intelligent Augmented Reality Learning Environment, NSF of China funded**
+
+*Co-Investigator*
+
