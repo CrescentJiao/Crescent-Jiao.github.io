@@ -262,7 +262,7 @@ More details:  see this video👇
   
 **Programming:**
  	
-- Fluent in and C, C#/C++, Java, HTML, Unity 3D, Vuforia; Intermediate in Python, R, LaTex, Eyetracking
+- Fluent in and C, C#/C++, Java, HTML, Unity 3D, Vuforia; Intermediate in Python, LaTex, Eyetracking
   
 **Languages:**
   
