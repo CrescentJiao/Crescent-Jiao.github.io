@@ -16,10 +16,7 @@ main:
     url: "/#-educations"
 
   - title: "Projects"
-    url: "/#-work-experiences"
-
-  - title: "test"
-    url: "/#-test"
+    url: "/#-projects"
 
  # - title: "Internships"
  #   url: "/#-internships"
