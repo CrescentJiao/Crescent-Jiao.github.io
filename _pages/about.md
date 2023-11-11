@@ -168,9 +168,9 @@ Designed and implemented an AR-based multi-representational learning environment
 
 **AR + STEM education**
 
-- <a href="https://github.com/Xinyue-Jiao/The-three-primary-colors-of-light" target="_blank"> 🚥The three primary colors of light</a>[Image-based]: Helping children learn the law of the three primary colors of light . Adopted by <b> five </b>elementary schools in China
-- <a href="https://github.com/Xinyue-Jiao/Dispersion-of-Light" target="_blank"> 🕎 Dispersion of Light</a>[Image-based]</a>: Helping children learn the dispersion of light .   Adopted by <b> one </b>elementary schools in China
-- <a href="https://github.com/Xinyue-Jiao/Mystery-of-solar-altitude" target="_blank">🌞 Mystery of solar altitude</a>[Image-based]</a>: Using AR and 3D models to simulate changes in solar altitude throughout the day.
+- <a href="https://github.com/CrescentJiao/The-three-primary-colors-of-light" target="_blank"> 🚥The three primary colors of light</a>[Image-based]: Helping children learn the law of the three primary colors of light . Adopted by <b> five </b>elementary schools in China
+- <a href="https://github.com/CrescentJiao/Dispersion-of-Light" target="_blank"> 🕎 Dispersion of Light</a>[Image-based]</a>: Helping children learn the dispersion of light .   Adopted by <b> one </b>elementary schools in China
+- <a href="https://github.com/CrescentJiao/Mystery-of-solar-altitude" target="_blank">🌞 Mystery of solar altitude</a>[Image-based]</a>: Using AR and 3D models to simulate changes in solar altitude throughout the day.
 					
  
 <div class='horizontal-image-container'>
@@ -185,8 +185,8 @@ Designed and implemented an AR-based multi-representational learning environment
     </div>
 </div>
 
-- <a href="https://github.com/Xinyue-Jiao/Exploring-the-contour-lines" target="_blank">⛰️Exploring the contour lines</a>[Image-based]</a>:  Helping students observe contour lines from different angles.  Adopted by <b> five </b>elementary schools in China
-- <a href="https://github.com/Xinyue-Jiao/Diverse-electrolytes" target="_blank">🧪 Diverse electrolytes</a>[Image-based]: Simulation of chemical reactions between different electrolytes using AR technology. 
+- <a href="https://github.com/CrescentJiao/Exploring-the-contour-lines" target="_blank">⛰️Exploring the contour lines</a>[Image-based]</a>:  Helping students observe contour lines from different angles.  Adopted by <b> five </b>elementary schools in China
+- <a href="https://github.com/CrescentJiao/Diverse-electrolytes" target="_blank">🧪 Diverse electrolytes</a>[Image-based]: Simulation of chemical reactions between different electrolytes using AR technology. 
 - 🌍 Our Earth</a>[location-based]: Earth Landscapes and English vocabulary acquisition .  Adopted by<b> five </b> elementary schools in China
 
 <div class='horizontal-image-container'>
@@ -204,9 +204,9 @@ Designed and implemented an AR-based multi-representational learning environment
 					
 **AR + Mathematics education**
 	
-- <a href="https://github.com/Xinyue-Jiao/Linear-function" target="_blank">📝Linear function</a>[Image-based]</a>: Real-time presentation of the V-t function of the character running. Adopted by <b> one </b>elementary schools in China
-- <a href="https://github.com/Xinyue-Jiao/Segmentation-Functions" target="_blank"> 🐝Segmentation Functions</a>[Image-based]</a>: Change the speed of the bees and record the time and distance the bees fly in real time. Adopted by <b> one </b>elementary schools in China
-- <a href="https://github.com/Xinyue-Jiao/Pursue-and-encounter-problems" target="_blank">🏃Meeting and Overtaking Problem</a>[Image-based]</a>: Visuallization of pursuit and encounter problems in mathematics . Adopted by <b> one </b>elementary schools in China
+- <a href="https://github.com/CrescentJiao/Linear-function" target="_blank">📝Linear function</a>[Image-based]</a>: Real-time presentation of the V-t function of the character running. Adopted by <b> one </b>elementary schools in China
+- <a href="https://github.com/CrescentJiao/Segmentation-Functions" target="_blank"> 🐝Segmentation Functions</a>[Image-based]</a>: Change the speed of the bees and record the time and distance the bees fly in real time. Adopted by <b> one </b>elementary schools in China
+- <a href="https://github.com/CrescentJiao/Pursue-and-encounter-problems" target="_blank">🏃Meeting and Overtaking Problem</a>[Image-based]</a>: Visuallization of pursuit and encounter problems in mathematics . Adopted by <b> one </b>elementary schools in China
 
 <div class='horizontal-image-container'>
     <div class='horizontal-image-item'>
