@@ -306,8 +306,12 @@ More details:  see this video👇
 - Program Committee of American Educational Research Association (AERA)
 - Volunteer Teacher of programming in an underdevelopment area of China
 
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">AR+AI</div><img src='images/digestive.png' alt="sym" width="100%"></div></div>
+<div class='paper-box-text' markdown="1">
 
-# 💻 Jiao
+**Integrating Learning Analytics and Learning Design: Exploration of AR-Enhanced Science Courses with AI Integration**
 
-- Member of The Asia-Pacific Society for Computers in Education (APSCE) 
-- Program 
+A project that aims to design AR (Augmented Reality) application for elementary school students to learn about the digestive and circulatory systems. With instant diagnostic and predictive capabilities, the AR systems include teacher dashboard to track student behavior. Additionally, it utilizes AI and log data for further analysis of student behavior.
+*student researcher*
+</div>
+</div>
