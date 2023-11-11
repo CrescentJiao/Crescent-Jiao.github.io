@@ -87,6 +87,38 @@
 
 }
 
+
+.horizontal-image-container {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    flex-wrap: wrap;
+    margin-bottom: 2em;
+
+    .horizontal-image-item {
+        flex: 0 0 100%; /* 每个图片项占据整个行 */
+        max-width: 100%;
+        box-shadow: 3px 3px 6px #888;
+        margin-bottom: 1em;
+
+        img {
+            width: 100%;
+            height: auto;
+            max-width: 100%;
+            object-fit: cover;
+        }
+    }
+
+    @media (min-width: 768px) {
+        .horizontal-image-item {
+            flex: 0 0 30%; /* 在较大屏幕上，每个图片项占据容器的30% */
+            max-width: 30%;
+            margin-bottom: 0;
+        }
+    }
+}
+
+
 $scroll_offset : 2em;
 h1:before, .anchor:before { 
     content: ''; 
