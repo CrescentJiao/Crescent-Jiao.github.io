@@ -153,7 +153,7 @@ Designed and implemented an AR-based multi-representational learning environment
  
 <div class='horizontal-image-container'>
     <div class='horizontal-image-item'>
-       <div class="badge">The three primary colors of light</div>  <img src='images/ARapp/Light.png' alt="sym">
+       <div class="badge">The three primary colors of light</div>  <img src='images/ARapp/Light.png' alt="sym" width="80%">
     </div>
     <div class='horizontal-image-item'>
         <div class="badge">Dispersion of Light</div> <img src='images/ARapp/Light2.png' alt="sym">
@@ -166,40 +166,39 @@ Designed and implemented an AR-based multi-representational learning environment
 - <a href="https://github.com/Xinyue-Jiao/Exploring-the-contour-lines" target="_blank">⛰️Exploring the contour lines</a>[Image-based]</a>:  Helping students observe contour lines from different angles.  Adopted by <b> five </b>elementary schools in China
 - <a href="https://github.com/Xinyue-Jiao/Diverse-electrolytes" target="_blank">🧪 Diverse electrolytes</a>[Image-based]: Simulation of chemical reactions between different electrolytes using AR technology. 
 - 🌍 Our Earth</a>[location-based]: Earth Landscapes and English vocabulary acquisition .  Adopted by<b> five </b> elementary schools in China
-	
-	<div class='paper-box-image' style="display: flex;">
-	<div>
-	<div class="badge">The three primary colors of light</div>
-	<img src='images/ARapp/Contour.png' alt="sym" width="100%">  </div>
- 	<div>
-      <div class="badge">Dispersion of Light</div>
-      <img src='images/ARapp/dianjiezhi.png' alt="sym" width="100%">
-   	 </div>
-	<div>
-      <div class="badge">Mystery of solar altitude</div>
-     <img src='images/ARapp/OurEarth.png' alt="sym" width="100%">
+
+<div class='horizontal-image-container'>
+    <div class='horizontal-image-item'>
+       <div class="badge">Exploring the contour lines</div>  <img src='images/ARapp/Contour.png' alt="sym" >
     </div>
-</div> 	
+    <div class='horizontal-image-item'>
+        <div class="badge">Diverse electrolytes</div> <img src='images/ARapp/dianjiezhi.png' alt="sym">
+    </div>
+    <div class='horizontal-image-item'>
+       <div class="badge"> Our Earth</div> <img src='images/ARapp/OurEarth.png' alt="sym">
+    </div>
+</div>
+	
 					
     <p><b>AR + Mathematics education</b></p>
 	
 - <a href="https://github.com/Xinyue-Jiao/Linear-function" target="_blank">📝Linear function</a>[Image-based]</a>: Real-time presentation of the V-t function of the character running. Adopted by <b> one </b>elementary schools in China
 - <a href="https://github.com/Xinyue-Jiao/Segmentation-Functions" target="_blank"> 🐝Segmentation Functions</a>[Image-based]</a>: Change the speed of the bees and record the time and distance the bees fly in real time. Adopted by <b> one </b>elementary schools in China
-- <a href="https://github.com/Xinyue-Jiao/Pursue-and-encounter-problems" target="_blank">🏃Pursue and encounter problems</a>[Image-based]</a>: Visuallization of pursuit and encounter problems in mathematics . Adopted by <b> one </b>elementary schools in China
+- <a href="https://github.com/Xinyue-Jiao/Pursue-and-encounter-problems" target="_blank">🏃Meeting and Overtaking Problem</a>[Image-based]</a>: Visuallization of pursuit and encounter problems in mathematics . Adopted by <b> one </b>elementary schools in China
 
-<div class='paper-box-image' style="display: flex;">
-	<div>
-	<div class="badge">The three primary colors of light</div>
-	<img src='images/ARapp/run.png' alt="sym" width="100%">  </div>
- 	<div>
-      <div class="badge">Dispersion of Light</div>
-      <img src='images/ARapp/bee.png' alt="sym" width="100%">
-   	 </div>
-	<div>
-      <div class="badge">Mystery of solar altitude</div>
-     <img src='images/ARapp/mathszhuiji.png' alt="sym" width="100%">
+<div class='horizontal-image-container'>
+    <div class='horizontal-image-item'>
+       <div class="badge">Linear-function</div>  <img src='images/ARapp/run.png' alt="sym" >
     </div>
-</div> 
+    <div class='horizontal-image-item'>
+        <div class="badge">Segmentation Functions</div> <img src='images/ARapp/bee.png' alt="sym">
+    </div>
+    <div class='horizontal-image-item'>
+       <div class="badge"> Meeting and Overtaking Problem</div> <img src='images/ARapp/mathszhuiji.png' alt="sym">
+    </div>
+</div>
+
+
 
       
 More details:  see this video👇
