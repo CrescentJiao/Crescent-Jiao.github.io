@@ -300,7 +300,7 @@ More details:  see this video👇
 - 2017/07 - 2018/08: Programming Teacher, Robot Culture and Technology Company, Hubei, China.
 
 
-# 🖼️ Research Projects
+# 🖼️ Research Experiences
 
 - 2020/08 - present：Research Assistant,Faculty of Education, Beijing Normal Univ, China.
 - 2020/11 - 2021/08: Teaching Assistant, Faculty of Education, Beijing Normal Univ, China.
