@@ -8,9 +8,9 @@ main:
 
   - title: "Publications"
     url: "/#-publications"
-
-  - title: "Projects"
-    url: "/#-projects"
+ 
+  - title: "Jiao"
+    url: "/#-jiao"
 
   - title: "Honors and Awards"
     url: "/#-honors-and-awards"
@@ -18,8 +18,6 @@ main:
   - title: "Educations"
     url: "/#-educations"
 
-  - title: "Projects"
-    url: "/#-projects"
 
  # - title: "Internships"
  #   url: "/#-internships"
