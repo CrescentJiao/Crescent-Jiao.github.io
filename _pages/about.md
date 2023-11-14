@@ -30,7 +30,7 @@ My research interest includes learning analytics, AR, formative assessment, and 
 
 My academic interest is the design and application of Augmented Reality and Virtual Reality in education and Game-based Learning. In the process of implementation, I am passionate about using quantitative/qualitative methods such as learning analytics to understand students' interactions in the learning environment, and thus using the analytics results to improve students' learning experience, such as using data visualization, dashboards, etc. 
 		
-- The design and development of AR/VR in education
+- The design and development of AR/VR in education, Embodied cognition
 - Learning science and technology, learning analytics, Multimodal learning analysis 
 - AI, Automated assessment, formative assessment, stealth assessment
 - Game-based Learning, Game design, interaction design
@@ -38,7 +38,7 @@ My academic interest is the design and application of Augmented Reality and Virt
   
 To this end, I have made the following efforts:
 	
- - Design learning environments using immersive technology and educational theories. I am excited about creating and designing.
+ - Design learning environments using immersive technology and educational theories, such as embodied cognition theory . I am excited about creating and designing.
 	
  - Learning analytics and assessment. I am interested in discovering and interpreting the data generated from learning processes or learning outcomes.
    
