@@ -21,17 +21,17 @@ I am a Research assistant at the Faculty of Education, Beijing Normal University
 
 I graduated from the Faculty of Education <a href="https://english.bnu.edu.cn/">Beijing Normal University (BNU) (北京师范大学)</a> with a Master’s degree in Educational Technology,  advised by Prof. <a href="https://www.researchgate.net/profile/Su-Cai" target="_blank"> Su Cai</a>.  I was a research assistant in <a href="https://www.researchgate.net/lab/VR-AR-Education-Lab-Su-Cai" target="_blank"> "AR/VR+Education" Lab. 
 
-My research interest includes learning analytics, AR, formative assessment, and collaborative learning. I have published 10+ papers in journals and international conferences related to educational technology. I am honored to present my papers in top conferences, such as AERA, ICALT, ICBL, ICCE and so on.
+My research interest includes learning analytics, AR, formative assessment, collaborative learning and data visualization. I have published 10+ papers in journals and international conferences related to educational technology. I am honored to present my papers in top conferences, such as AERA, ICALT, ICBL, ICCE and so on.
 
 
 
 
 # 🎓 Research Interests
 
-My academic interest is the design and application of Augmented Reality and Virtual Reality in education and Game-based Learning. In the process of implementation, I am passionate about using quantitative/qualitative methods such as learning analytics to understand students' interactions in the learning environment, and thus using the analytics results to improve students' learning experience, such as using data visualization, dashboards, etc. 
+My academic interest is the design and application of Augmented Reality and Virtual Reality in education and Game-based Learning. In the process of implementation, I am passionate about using quantitative/qualitative methods such as learning analytics to understand students' interactions in the learning environment, and thus using the analytics results to improve students' learning experience, such as using AI, data visualization, dashboards, etc. 
 		
 - The design and development of AR/VR in education, Embodied cognition
-- Learning science and technology, learning analytics, Multimodal learning analysis 
+- Learning science and technology, learning analytics, Multimodal learning analysis, dashboards
 - AI, Automated assessment, formative assessment, stealth assessment
 - Game-based Learning, Game design, interaction design
 - generative AI, AI chatbox
