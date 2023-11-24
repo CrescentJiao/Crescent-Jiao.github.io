@@ -53,7 +53,7 @@ To this end, I have made the following efforts:
 
 - Cai, S., <b>Jiao, X., </b> Li, J., Jin, P., Zhou, H., & Wang, T. (2022). Conceptions of learning science among elementary school students in AR learning environment: A case study of "The Magic Sound." Sustainability (Switzerland), 14(11). doi:10.3390/su14116783[<a href="https://www.mdpi.com/2071-1050/14/11/6783">url</a>]
 - Li, S., Shen, Y., <b>Jiao, X., </b> & Cai, S. (2022). Using Augmented Reality to enhance students' representational fluency: the case of linear functions. Mathematics, 10(10). doi:10.3390/math10101718[<a href="https://www.mdpi.com/2227-7390/10/10/1718">url</a>]
-- Y., Yang, Y., Cai, S., Wen, Y., Li, J., &  <b>Jiao, X., </b> (2021). AR learning environment integrated with EIA inquiry model: enhancing scientific literacy and reducing the cognitive load of students. Sustainability (Switzerland), 13(22). doi:10.3390/su132212787[<a href="https://www.mdpi.com/2071-1050/13/22/12787">url</a>] 
+- Y., Yang, Y., Cai, S., Wen, Y., Li, J., &  <b>Jiao, X., </b> (2021). AR learning environment integrated with EIA inquiry model: enhancing scientific literacy and reducing the cognitive load of students. Sustainability (Switzerland), 13(22). doi:10.3390/su132212787<a href="https://www.mdpi.com/2071-1050/13/22/12787">url</a>] 
 - Cai, S., <b>Jiao, X., </b>Song, B. (2022) Opening another door of Education: Application, Challenge, and Prospect of Educational Metaverse. Modern Educational Technology, (1): 16-26. [In Chinese, CSSCI]			
 - Cai, S., <b>Jiao, X., </b> Yang, Y., Jiang, L., Yu, S. (2021) Multi-modal smart classroom practice in 5G environment. Modern Distance Education Research, 33(05):103-112. [In Chinese]  (CSSCI)
 - Jiao, X., </b> Ouyang, C., Fan, S., Wang, P. & Gao, L. (2019). STEM+C curriculum design and application based on computational thinking teaching. Educational Information Technology. 2019(05), 43-46. [In Chinese] 	
@@ -61,24 +61,12 @@ To this end, I have made the following efforts:
 ## Conference Papers ##
 
 - <b>Jiao, X., </b>Liu, Z., Zhou, H., & Cai, S. (2022). The Effect of Role Assignment on Students' Collaborative Inquiry-based Learning in Augmented Reality Environment. Proceedings of the 22nd International Conference on Advanced Learning Technologies, ICALT 2022, July 1, 2022 - July 4, 2022, Bucharest, Romania. (EI) [<a href="https://ieeexplore.ieee.org/document/9853793">url</a>]
-- <b>Jiao, X., </b> Liu, Z., & Cai, S. (2020). The influence of augmented reality embedding cognitive scaffolds on elementary students' scientific learning. Proceedings of the 28th International Conference on Computers in Education, ICCE 2020, November 23, 2020 - November 27, 2020, Virtual, Online. (EI) <b>[Nominated for the Best Overall Paper Award]</b>
-		[<a href="https://Xinyue-Jiao.github.io/pdf/publications/ICCE2020Scaffolds.pdf">paper</a>]
-		[<a href=" https://apsce.net/icce/icce2020/proceedings/paper_90.pdf">url</a>]
-- <b>Jiao, X., </b>Wang, R., & Cai, S. (2022). Exploring the Argumentation Characteristics in SSI Video Discussion Area of Online Video Learning Website. Proceedings of the 10th International Conference on Information and Education Technology, ICIET 2022, April 9, 2022 -April 11, 2022, Matsue, Japan. (EI)
-		[<a href="https://Xinyue-Jiao.github.io/pdf/publications/ICIET2022Argumentation.pdf">paper</a>]
-		[<a href="https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=9778977">url</a>]
-- Feng, Z., Gong, C., <b>Jiao, X., </b> Liu, Z., & Cai, S. (2022). The Effects of AR Learning Environment on Preschool Children's Numerical Cognition. Proceedings of the 22nd International Conference on Advanced Learning Technologies, ICALT 2022, July 1, 2022 - July 4, 2022, Bucharest, Romania. (EI)
-	[<a href="https://Xinyue-Jiao.github.io/pdf/publications/ICALT2022Numerical.pdf">paper</a>]
-		[<a href="https://ieeexplore.ieee.org/document/9853786">url</a>]
- - Jiao, X., Yi, C., Liu, C., Xie, Y., & Ma, N. (2021). How Different Cognitive Style Groups Affect Learners' Knowledge Construction in Collaborative Argumentation. Proceedings of the 13th International Conference on Education Technology and Computers, ICETC 2021, May 24, 2021- June 2, 2021, Virtual, Online. (EI)
-	[<a href="https://Xinyue-Jiao.github.io/pdf/publications/ICETC2021How.pdf">paper</a>]
-		[<a href="https://dl.acm.org/doi/10.1145/3498765.3498831">url</a>]
-- Liu, Z.,<b>Jiao, X., </b> & Cai, S. (2021). Effects of Augmented Reality on students' online physics learning. Proceedings of the American Educational Research Association, AERA 2021, April 8, 2021 - April 12, 2021, Virtual, Online.
-	[<a href="https://Xinyue-Jiao.github.io/pdf/publications/AERA.pdf">paper</a>]
-		[<a href="https://doi.org/10.3102/1687194">url</a>]
-- Jiao, X., Lin, Y. R. (2019). The influence of argumentation strategy on students' web-based argumentation in different scientific concepts. Proceedings of the 2019 International Symposium on Educational Technology, ISET 2019, July 2, 2019 - July 4, 2019, Hradec Kralove, Czech Republic. (EI)
-	[<a href="https://Xinyue-Jiao.github.io/pdf/publications/ISET2019Argu_Strategys.pdf">paper</a>]
-		[<a href="https://ieeexplore.ieee.org/document/8782235">url</a>]
+- <b>Jiao, X., </b> Liu, Z., & Cai, S. (2020). The influence of augmented reality embedding cognitive scaffolds on elementary students' scientific learning. Proceedings of the 28th International Conference on Computers in Education, ICCE 2020, November 23, 2020 - November 27, 2020, Virtual, Online. (EI) <b>[Nominated for the Best Overall Paper Award]</b> [<a href=" https://apsce.net/icce/icce2020/proceedings/paper_90.pdf">url</a>]
+- <b>Jiao, X., </b>Wang, R., & Cai, S. (2022). Exploring the Argumentation Characteristics in SSI Video Discussion Area of Online Video Learning Website. Proceedings of the 10th International Conference on Information and Education Technology, ICIET 2022, April 9, 2022 -April 11, 2022, Matsue, Japan. (EI)[<a href="https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=9778977">url</a>]
+- Feng, Z., Gong, C., <b>Jiao, X., </b> Liu, Z., & Cai, S. (2022). The Effects of AR Learning Environment on Preschool Children's Numerical Cognition. Proceedings of the 22nd International Conference on Advanced Learning Technologies, ICALT 2022, July 1, 2022 - July 4, 2022, Bucharest, Romania. (EI)[<a href="https://ieeexplore.ieee.org/document/9853786">url</a>]
+ - Jiao, X., Yi, C., Liu, C., Xie, Y., & Ma, N. (2021). How Different Cognitive Style Groups Affect Learners' Knowledge Construction in Collaborative Argumentation. Proceedings of the 13th International Conference on Education Technology and Computers, ICETC 2021, May 24, 2021- June 2, 2021, Virtual, Online. (EI)[<a href="https://dl.acm.org/doi/10.1145/3498765.3498831">url</a>]
+- Liu, Z.,<b>Jiao, X., </b> & Cai, S. (2021). Effects of Augmented Reality on students' online physics learning. Proceedings of the American Educational Research Association, AERA 2021, April 8, 2021 - April 12, 2021, Virtual, Online.[<a href="https://doi.org/10.3102/1687194">url</a>]
+- Jiao, X., Lin, Y. R. (2019). The influence of argumentation strategy on students' web-based argumentation in different scientific concepts. Proceedings of the 2019 International Symposium on Educational Technology, ISET 2019, July 2, 2019 - July 4, 2019, Hradec Kralove, Czech Republic. (EI)[<a href="https://ieeexplore.ieee.org/document/8782235">url</a>]
 
 
 
@@ -105,8 +93,12 @@ A project that aims to design AR (Augmented Reality) application for elementary 
 
 **Paper:** 
 - Cai, S., <b>Jiao, X., </b> Li, J., Jin, P., Zhou, H., & Wang, T. (2022). Conceptions of learning science among elementary school students in AR learning environment: A case study of "The Magic Sound." Sustainability (Switzerland), 14(11). doi:10.3390/su14116783
+        
+        
 [<a href="https://www.mdpi.com/2071-1050/14/11/6783">url</a>]
-- Y., Yang, Y., Cai, S., Wen, Y., Li, J., &  <b>Jiao, X., </b> (2021). AR learning environment integrated with EIA inquiry model: enhancing scientific literacy and reducing the cognitive load of students. Sustainability (Switzerland), 13(22). doi:10.3390/su132212787(SSCI)	<a href="https://www.mdpi.com/2071-1050/13/22/12787">url</a>]
+- Y., Yang, Y., Cai, S., Wen, Y., Li, J., &  <b>Jiao, X., </b> (2021). AR learning environment integrated with EIA inquiry model: enhancing scientific literacy and reducing the cognitive load of students. Sustainability (Switzerland), 13(22). doi:10.3390/su132212787(SSCI)
+        
+        	a href="https://www.mdpi.com/2071-1050/13/22/12787">url</a>]
 - Jiao, X., Liu, Z., & Cai, S. (2020). The influence of augmented reality embedding cognitive scaffolds on elementary students' scientific learning. Proceedings of the 28th International Conference on Computers in Education, ICCE 2020, November 23, 2020 - November 27, 2020, Virtual, Online. (EI) [Nominated for the Best Overall Paper Award]
 </div>
 </div>
