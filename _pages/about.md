@@ -92,9 +92,9 @@ A project that aims to design AR (Augmented Reality) application for elementary 
 *Co-Investigator*
 
 **Paper:** 
-- Cai, S., <b>Jiao, X., </b> Li, J., Jin, P., Zhou, H., & Wang, T. (2022). Conceptions of learning science among elementary school students in AR learning environment: A case study of "The Magic Sound." Sustainability (Switzerland), 14(11). doi:10.3390/su14116783
-[<a href="https://www.mdpi.com/2071-1050/14/11/6783">url</a>]
-- Y., Yang, Y., Cai, S., Wen, Y., Li, J., &  <b>Jiao, X., </b> (2021). AR learning environment integrated with EIA inquiry model: enhancing scientific literacy and reducing the cognitive load of students. Sustainability (Switzerland), 13(22). doi:10.3390/su132212787(SSCI)<a href="https://www.mdpi.com/2071-1050/13/22/12787">url</a>]
+- Cai, S., <b>Jiao, X., </b> Li, J., Jin, P., Zhou, H., & Wang, T. (2022). Conceptions of learning science among elementary school students in AR learning environment: A case study of "The Magic Sound." Sustainability (Switzerland), 14(11). 
+<a href="https://www.mdpi.com/2071-1050/14/11/6783">doi:10.3390/su14116783</a>
+- Y., Yang, Y., Cai, S., Wen, Y., Li, J., &  <b>Jiao, X., </b> (2021). AR learning environment integrated with EIA inquiry model: enhancing scientific literacy and reducing the cognitive load of students. Sustainability (Switzerland), 13(22). doi:10.3390/su132212787(SSCI)<a href="https://www.mdpi.com/2071-1050/13/22/12787">url</a>
 - Jiao, X., Liu, Z., & Cai, S. (2020). The influence of augmented reality embedding cognitive scaffolds on elementary students' scientific learning. Proceedings of the 28th International Conference on Computers in Education, ICCE 2020, November 23, 2020 - November 27, 2020, Virtual, Online. (EI) [Nominated for the Best Overall Paper Award]
 </div>
 </div>
