@@ -28,7 +28,7 @@ My research interest includes learning analytics, AR, formative assessment, coll
 
 # 🎓 Research Interests
 
-My academic interest is the design and application of Augmented Reality and Virtual Reality in education and Game-based Learning. In the process of implementation, I am passionate about creating immersive educational products to improve students' learning experience, such as using embodied cognition theory, AI, data visualization, dashboards, etc. and using quantitative/qualitative methods such as learning analytics to understand students' cognition and interactions in the learning environment.  
+I am passionate about creating immersive educational products to improve students' learning experience, such as using embodied cognition theory, AI, data visualization, dashboards, etc. and using quantitative/qualitative methods such as learning analytics to understand students' cognition and interactions in the learning environment.  
 		
 - The design and development of AR/VR in education, Embodied cognition
 - Learning science and technology, learning analytics, Multimodal learning analysis, dashboards
@@ -51,9 +51,21 @@ To this end, I have made the following efforts:
 # 📝 Publications 
 ## Journal Papers
 
-- Cai, S., <b>Jiao, X., </b> Li, J., Jin, P., Zhou, H., & Wang, T. (2022). Conceptions of learning science among elementary school students in AR learning environment: A case study of "The Magic Sound." Sustainability (Switzerland), 14(11). doi:10.3390/su14116783[<a href="https://www.mdpi.com/2071-1050/14/11/6783">url</a>]
-- Li, S., Shen, Y., <b>Jiao, X., </b> & Cai, S. (2022). Using Augmented Reality to enhance students' representational fluency: the case of linear functions. Mathematics, 10(10). doi:10.3390/math10101718[<a href="https://www.mdpi.com/2227-7390/10/10/1718">url</a>]
-- Y., Yang, Y., Cai, S., Wen, Y., Li, J., &  <b>Jiao, X., </b> (2021). AR learning environment integrated with EIA inquiry model: enhancing scientific literacy and reducing the cognitive load of students. Sustainability (Switzerland), 13(22). doi:10.3390/su132212787<a href="https://www.mdpi.com/2071-1050/13/22/12787">url</a>] 
+- Cai, S., <b>Jiao, X., </b> Li, J., Jin, P., Zhou, H., & Wang, T. (2022). Conceptions of learning science among elementary school students in AR learning environment: A case study of "The Magic Sound." Sustainability (Switzerland), 14(11). doi:10.3390/su14116783
+        
+        
+        
+        <a href="https://www.mdpi.com/2071-1050/14/11/6783">url</a>]
+- Li, S., Shen, Y., <b>Jiao, X., </b> & Cai, S. (2022). Using Augmented Reality to enhance students' representational fluency: the case of linear functions. Mathematics, 10(10). doi:10.3390/math10101718
+        
+        
+        
+        <a href="https://www.mdpi.com/2227-7390/10/10/1718">url</a>]
+- Y., Yang, Y., Cai, S., Wen, Y., Li, J., &  <b>Jiao, X., </b> (2021). AR learning environment integrated with EIA inquiry model: enhancing scientific literacy and reducing the cognitive load of students. Sustainability (Switzerland), 13(22). doi:10.3390/su132212787
+        
+        
+        
+        a href="https://www.mdpi.com/2071-1050/13/22/12787">url</a>] 
 - Cai, S., <b>Jiao, X., </b>Song, B. (2022) Opening another door of Education: Application, Challenge, and Prospect of Educational Metaverse. Modern Educational Technology, (1): 16-26. [In Chinese, CSSCI]			
 - Cai, S., <b>Jiao, X., </b> Yang, Y., Jiang, L., Yu, S. (2021) Multi-modal smart classroom practice in 5G environment. Modern Distance Education Research, 33(05):103-112. [In Chinese]  (CSSCI)
 - Jiao, X., </b> Ouyang, C., Fan, S., Wang, P. & Gao, L. (2019). STEM+C curriculum design and application based on computational thinking teaching. Educational Information Technology. 2019(05), 43-46. [In Chinese] 	
