@@ -77,9 +77,7 @@ To this end, I have made the following efforts:
 
 
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">AR+AI</div><img src='images/digestive.png' alt="sym" width="100%"></div></div>
-
-
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">Intelligent ARLE</div><img src='images/bishe.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1"> 
 	
 **Research on Multi-Channel Information Fusion Computation and Evaluation in Intelligent Augmented Reality Learning Environment, NSF of China funded**
