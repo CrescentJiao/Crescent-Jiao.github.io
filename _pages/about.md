@@ -52,20 +52,10 @@ To this end, I have made the following efforts:
 ## Journal Papers
 
 - Cai, S., <b>Jiao, X., </b> Li, J., Jin, P., Zhou, H., & Wang, T. (2022). Conceptions of learning science among elementary school students in AR learning environment: A case study of "The Magic Sound." Sustainability (Switzerland), 14(11). doi:10.3390/su14116783
-        
-        
-        
-        <a href="https://www.mdpi.com/2071-1050/14/11/6783">url</a>]
-- Li, S., Shen, Y., <b>Jiao, X., </b> & Cai, S. (2022). Using Augmented Reality to enhance students' representational fluency: the case of linear functions. Mathematics, 10(10). doi:10.3390/math10101718
-        
-        
-        
-        <a href="https://www.mdpi.com/2227-7390/10/10/1718">url</a>]
+ <a href="https://www.mdpi.com/2071-1050/14/11/6783">url</a>]
+- Li, S., Shen, Y., <b>Jiao, X., </b> & Cai, S. (2022). Using Augmented Reality to enhance students' representational fluency: the case of linear functions. Mathematics, 10(10). doi:10.3390/math10101718<a href="https://www.mdpi.com/2227-7390/10/10/1718">url</a>]
 - Y., Yang, Y., Cai, S., Wen, Y., Li, J., &  <b>Jiao, X., </b> (2021). AR learning environment integrated with EIA inquiry model: enhancing scientific literacy and reducing the cognitive load of students. Sustainability (Switzerland), 13(22). doi:10.3390/su132212787
-        
-        
-        
-        a href="https://www.mdpi.com/2071-1050/13/22/12787">url</a>] 
+ a href="https://www.mdpi.com/2071-1050/13/22/12787">url</a>] 
 - Cai, S., <b>Jiao, X., </b>Song, B. (2022) Opening another door of Education: Application, Challenge, and Prospect of Educational Metaverse. Modern Educational Technology, (1): 16-26. [In Chinese, CSSCI]			
 - Cai, S., <b>Jiao, X., </b> Yang, Y., Jiang, L., Yu, S. (2021) Multi-modal smart classroom practice in 5G environment. Modern Distance Education Research, 33(05):103-112. [In Chinese]  (CSSCI)
 - Jiao, X., </b> Ouyang, C., Fan, S., Wang, P. & Gao, L. (2019). STEM+C curriculum design and application based on computational thinking teaching. Educational Information Technology. 2019(05), 43-46. [In Chinese] 	
@@ -89,7 +79,7 @@ To this end, I have made the following efforts:
 
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">AR+AI</div><img src='images/digestive.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
-
+/%
 **Integrating Learning Analytics and Learning Design: Exploration of AR-Enhanced Science Courses with AI Integration**
 
 A project that aims to design AR (Augmented Reality) application for elementary school students to learn about the digestive and circulatory systems. With instant diagnostic and predictive capabilities, the AR systems include teacher dashboard to track student behavior. Additionally, it utilizes AI and log data for further analysis of student behavior.
@@ -97,7 +87,7 @@ A project that aims to design AR (Augmented Reality) application for elementary 
 </div>
 </div>
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">Intelligent ARLE</div><img src='images/bishe.png' alt="sym" width="100%"></div></div>
-<div class='paper-box-text' markdown="1">
+<div class='paper-box-text' markdown="1"> %/
 	
 **Research on Multi-Channel Information Fusion Computation and Evaluation in Intelligent Augmented Reality Learning Environment, NSF of China funded**
 
@@ -264,7 +254,7 @@ More details:  see this video👇
   
 **Programming:**
  	
-- Fluent in and C, C#/C++, Java, HTML, Unity 3D, Vuforia; Intermediate in Python, LaTex, Eyetracking
+- Fluent in and C, C#/C++, Java, HTML, Unity 3D, Vuforia; Intermediate in R, LaTex, Eyetracking
   
 **Languages:**
   
