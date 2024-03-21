@@ -78,15 +78,7 @@ To this end, I have made the following efforts:
 
 
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">AR+AI</div><img src='images/digestive.png' alt="sym" width="100%"></div></div>
-<div class='paper-box-text' markdown="1">
 
-<!--**Integrating Learning Analytics and Learning Design: Exploration of AR-Enhanced Science Courses with AI Integration**
-
-A project that aims to design AR (Augmented Reality) application for elementary school students to learn about the digestive and circulatory systems. With instant diagnostic and predictive capabilities, the AR systems include teacher dashboard to track student behavior. Additionally, it utilizes AI and log data for further analysis of student behavior.
-*student researcher*
-</div>
-</div>
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">Intelligent ARLE</div><img src='images/bishe.png' alt="sym" width="100%"></div></div>  -->
 
 <div class='paper-box-text' markdown="1"> 
 	
