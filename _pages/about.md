@@ -78,7 +78,7 @@ To this end, I have made the following efforts:
 
 
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">AR+AI</div><img src='images/digestive.png' alt="sym" width="100%"></div></div>
-/%<div class='paper-box-text' markdown="1">
+{%<div class='paper-box-text' markdown="1">
 
 **Integrating Learning Analytics and Learning Design: Exploration of AR-Enhanced Science Courses with AI Integration**
 
@@ -86,7 +86,7 @@ A project that aims to design AR (Augmented Reality) application for elementary 
 *student researcher*
 </div>
 </div>
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">Intelligent ARLE</div><img src='images/bishe.png' alt="sym" width="100%"></div></div> %/
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">Intelligent ARLE</div><img src='images/bishe.png' alt="sym" width="100%"></div></div> %/}
 <div class='paper-box-text' markdown="1"> 
 	
 **Research on Multi-Channel Information Fusion Computation and Evaluation in Intelligent Augmented Reality Learning Environment, NSF of China funded**
